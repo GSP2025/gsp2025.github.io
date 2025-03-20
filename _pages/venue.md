@@ -59,10 +59,10 @@ Mile-Ex is a dynamic neighborhood known for its mix of industrial charm and cutt
 ### Restaurants and bars
 
 Montréal has an amazing food scene, with more restaurants and cafes per square kilometre than anywhere in the Americas. The city has a massive variety of food options, from diners and fast food to haute cuisine to the incredible vegan diversity across a plethora of cuisines. We won't attempt to do any justice to the scene, but will note down some suggestions for some Montreal classics and convenient places in the Mile-Ex/Little Italy area.
-+ Bagels: St-Viateur's and Fairmount Bagels.
-+ Smoked meat: Schwartz's Deli is the most authentic, but plenty of other places offer quality smoked meat sandwiches.
-+ Poutine: Where you'll find the best poutine in Montreal is a very... divisive topic. La Banquise, Greenspot, Ma Poule Mouillée, Chez Tousignant, Chez Claudette, Chez Ma Tante, Frite alors!, Paulo & Suzanne... Good luck picking one!
-+ Around Mile-Ex/Little Italy: Le Pick Up, Cafe Guerrero, Pumpui, San Gennaro are great for quick bites, with many good Italian cafes nearby. Cicchetti, Vices & Versa, Bar St-Denis and Wills are great for afternoon/evening drinks & food.
++ **Bagels:** St-Viateur's and Fairmount Bagels.
++ **Smoked meat:** Schwartz's Deli is the most authentic, but plenty of other places offer quality smoked meat sandwiches.
++ **Poutine:** Where you'll find the best poutine in Montreal is a very... divisive topic. La Banquise, Greenspot, Ma Poule Mouillée, Chez Tousignant, Chez Claudette, Chez Ma Tante, Frite alors!, Paulo & Suzanne... Good luck picking one!
++ **Around Mile-Ex/Little Italy:** Le Pick Up, Cafe Guerrero, Pumpui, San Gennaro are great for quick bites, with many good Italian cafes nearby. Cicchetti, Vices & Versa, Bar St-Denis and Wills are great for afternoon/evening drinks & food.
 + If you're looking for something different, Au Pied De Cochon in Le Pleateau is a staple for a bit fancier but super hearty Quebecois food. Lots of meat, foie-gras and poutine involved.
 + Many places offer vegetarian/vegan options, but several suggestions particularly focused on vegetarian/vegan food: Lola Rosa, Aux Vivres, Shushu Haru, Cafe Santropol, Bloom Sushi...
 
