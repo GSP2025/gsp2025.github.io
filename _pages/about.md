@@ -33,7 +33,7 @@ GSP 2025 is kindly supported by Mila -- Quebec AI Institute, Centre de recherche
 + **Submission open:** February 1, 2025
 + **Submission deadline:** ~~February 21, 2025~~ **March 5, 2025 (AoE)**
 + **Notification of acceptance:** April 3, 2025
-+ **Early registration:** April 5, 2025
++ **Early registration:** April 6, 2025
 + **Workshop:** May 14-16, 2025
 
 ---
