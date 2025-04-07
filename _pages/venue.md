@@ -10,7 +10,7 @@ top_image: /assets/img/gsp25/mila_header.jpg
 top_image_alt: "Mila -- Quebec AI Institute"
 ---
 
-#### Venue
+### Venue
 GSP 2025 will take place at [Mila -- Quebec AI Institute](https://mila.quebec/en), one of the world's biggest AI research institutes, located in the vibrant Mile-Ex neighborhood of Montréal.
 
 **Address:** <br>
@@ -30,7 +30,7 @@ Canada
 
 
 ---
-#### How to get there
+### How to get there
 
 Mile-Ex is a dynamic neighborhood known for its mix of industrial charm and cutting-edge innovation. It's home to a thriving arts scene, excellent restaurants, and tech startups. It is also well-connected to the rest of the city via Montreal’s STM metro and bus system.
 
@@ -54,6 +54,17 @@ Mile-Ex is a dynamic neighborhood known for its mix of industrial charm and cutt
         {% include figure.html path="assets/img/gsp25/little_italy.jpg" title="Little Italy" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
 </div>
+
+---
+### Accommodation
+
+For your stay in Montreal, you are welcome to choose between two of the city’s most iconic neighborhoods, Plateau and Mile End, each with its own unique vibe. We have arranged a hotel in each neighborhood to provide discounts for our attendees, though other accommodations may of course be available.
+
+The [Boulevard Suites](https://boulevardsuites-reservations.m11collection.com/en/properties) in Plateau Mont-Royal offers a lively, central location with vibrant streets, charming cafés, parks, and nightlife—all within easy reach of downtown. This hotel is located 15 minutes bike ride/ 10 minutes by Uber and 20 minutes by public transport from Mila.
+
+Just next door, [Le Mile End Hotel](https://lemileendhotel-reservations.m11collection.com/en/properties) has a more relaxed, artsy feel, known for its indie boutiques, famous bagels, and creative culture.This hotel is located 10 minutes by bike or Uber ride from Mila.
+
+Please use the discount code **GSP2025** for 15% off your reservation in either property.
 
 ---
 ### Restaurants and bars

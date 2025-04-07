@@ -14,7 +14,7 @@ top_image_alt: "Montréal, Canada"
 + **Submissions open:** February 1, 2025
 + **Submission deadline:** ~~February 21, 2025~~ **March 5, 2025 (AoE)**
 + **Notification of acceptance:** April 3, 2025
-+ **Early registration:** April 6, 2025
++ **Early registration:** April 10, 2025
 + **Workshop:** May 14-16, 2025
 
 ---

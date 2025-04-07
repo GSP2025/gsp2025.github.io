@@ -19,6 +19,6 @@ Registration fees:
 + Early non-student - 525 CAD
 + Non-early non-student - 675 CAD
 
-Early bird fees are available until **April 6**, with regular fees applied from April 6. Please register as soon as possible.
+Early bird fees are available until **April 10**, with regular fees applied from April 11. Please register as soon as possible.
 
 We look forward to seeing you in Montréal!
