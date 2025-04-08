@@ -324,9 +324,9 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 2587px"><colgroup>
 <col style="width: 70px">
-<col style="width: 762px">
-<col style="width: 762px">
-<col style="width: 301px">
+<col style="width: 400px">
+<col style="width: 400px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
