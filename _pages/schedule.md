@@ -201,7 +201,7 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 <p id="Bastian Rieck"></p>
 
-##### Speaker 1, Wednesday 9:00 - 10:00
+##### **Speaker 1, Wednesday 9:00 - 10:00**
 [**Bastian Grossenbacher Rieck**](https://bastian.rieck.me), University of Fribourg
 
 **Title:** TBD
@@ -212,7 +212,7 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 <p id="Reihaneh Rabbany"></p>
 
-##### Speaker 2, Wednesday 11:30 - 12:30
+##### **Speaker 2, Wednesday 11:30 - 12:30**
 [**Reihaneh Rabbany**](http://www.reirab.com), McGill University, Mila -- Quebec AI Institute
 
 **Title:** TBD
@@ -223,7 +223,7 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 <p id="Danai Koutra"></p>
 
-##### Speaker 2, Wednesday 11:30 - 12:30
+##### **Speaker 2, Wednesday 11:30 - 12:30**
 [**Danai Koutra**](https://web.eecs.umich.edu/~dkoutra/), University of Michigan, Ann Arbor
 
 **Title:** TBD
@@ -232,9 +232,10 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 **Bio:** TBD
 
+
 <p id="Mathilde Papillon"></p>
 
-##### Speaker 1, Thursday 9:00 - 10:00
+##### **Speaker 1, Thursday 9:00 - 10:00**
 [**Mathilde Papillon**](https://www.mathildep.ca), UC Santa Barbara
 
 **Title:** Make Any Graph Neural Network Go Topological with TopoTune
@@ -243,9 +244,10 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 **Bio:** Mathilde Papillon is a Physics PhD candidate in the Geometric Intelligence Lab at the University of California Santa Barbara where she develops novel deep learning methods leveraging geometry and topology. She harnesses these models to study relational data, with a special focus on full-body human movement. Mathilde obtained her BSc in Honours Physics from McGill University and was recently awarded Canada’s Post Graduate Doctoral Fellowship.
 
+
 <p id="Melanie Weber"></p>
 
-##### Speaker 2, Thursday 13:00 - 14:00
+##### **Speaker 2, Thursday 13:00 - 14:00**
 [**Melanie Weber**](https://melanie-weber.com), Harvard University
 
 **Title:** A Geometric Lens on Challenges in Graph Machine Learning: Insights and Remedies
@@ -256,7 +258,7 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 <p id="Dhananjay Bhaskar"></p>
 
-##### Speaker 1, Friday 9:00 - 10:00
+##### **Speaker 1, Friday 9:00 - 10:00**
 [**Dhananjay Bhaskar**](https://dbhaskar92.github.io), Yale University
 
 **Title:** TBD
@@ -267,7 +269,7 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 <p id="Dominique Beaini"></p>
 
-##### Speaker 2, Friday 11:30 - 12:30
+##### **Speaker 2, Friday 11:30 - 12:30**
 [**Dominique Beaini**](https://mila.quebec/en/directory/dominique-beaini), Valence Labs, Université de Montréal, Mila -- Quebec AI Institute
 
 **Title:** How to Learn Molecules
@@ -279,7 +281,7 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 <p id="Naoki Saito"></p>
 
-##### Speaker 3, Friday 15:30 - 16:30
+##### **Speaker 3, Friday 15:30 - 16:30**
 [**Naoki Saito**](https://www.math.ucdavis.edu/~saito/), UC Davis
 
 **Title:** Generalized Haar-Walsh Dictionaries: Extensions and Applications
@@ -296,7 +298,7 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;width: 100%; table-layout: fixed;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:break-word;}
 .tg .tg-2b7s{text-align:left;vertical-align:bottom;width: 20px;}
 .tg .tg-buh4{
@@ -322,7 +324,7 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 .tg .tg-kex3{font-weight:bold;text-align:right;vertical-align:bottom}
 
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 2587px"><colgroup>
+<table class="tg" style="table-layout: fixed"><colgroup>
 <col style="width: 400px">
 <col style="width: 400px">
 <col style="width: 400px">
