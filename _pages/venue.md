@@ -64,7 +64,7 @@ The [Boulevard Suites](https://boulevardsuites-reservations.m11collection.com/en
 
 Just next door, [Le Mile End Hotel](https://lemileendhotel-reservations.m11collection.com/en/properties) has a more relaxed, artsy feel, known for its indie boutiques, famous bagels, and creative culture.This hotel is located 10 minutes by bike or Uber ride from Mila.
 
-Please use the discount code **GSP2025** for 15% off your reservation in either property.
+Please use the discount code **GSP2025** for 15% off your reservation in either property. In the case that no space is available in these properties, the discount code is also valid for other M11 hotels in Montreal, [bookable from here](https://www.m11collection.com).
 
 ---
 ### Restaurants and bars
