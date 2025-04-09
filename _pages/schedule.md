@@ -292,7 +292,7 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 ---
 
-### Accepted Papers
+### Accepted Papers: Extended Abstract Track
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;width: 100%; table-layout: fixed;}
@@ -592,3 +592,35 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
     <td class="tg-buh4">For the clinical study of epilepsy, we develop a transformer encoder for the detection of Seizure Onset Zone (SOZ) from stereo-EEG. It integrates clinically grounded time-frequency features with spatial contrastive pre-training. While prior spatial transformer approaches analyze learned representations, our method uniquely combines: (1) engineered time-frequency representations (TFRs) encoding epileptic spikes and oscillations, and (2) a contrastive objective leveraging anatomical relationships between the electrode contacts that are in the SOZ and the ones outside the SOZ.<br><br>The model processes heterogeneous sEEG records from different patients, using both ictal and interictal data. This contrastive strategy minimizes representational similarity between contact pairs on either side of the SOZ boundary while maximizing intra-SOZ similarity.<br><br>Attention heads provide interpretable connectivity patterns, bridging data-driven learning with the study of functional connectivity networks.</td>
   </tr>
 </tbody></table>
+
+---
+
+### Accepted Papers: TMLR Track
+
+<table class="tg" style="table-layout: fixed"><colgroup>
+<col style="width: 600px">
+<col style="width: 600px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-j6zm"><span style="font-weight:bold">Paper Title</span></th>
+    <th class="tg-j6zm"><span style="font-weight:bold">Authors</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-j58y"><a href="https://openreview.net/forum?id=v47f4DwYZb">Graph-level Representation Learning with Joint-Embedding Predictive Architectures</a></td>
+    <td class="tg-j58y">Geri Skenderi (Bocconi University), Hang Li (Michigan State University), Jiliang Tang (Michigan State University), Marco Cristani (University of Verona)</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><a href="https://openreview.net/forum?id=mSoDRZXsqj">Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings</a></td>
+    <td class="tg-7zrl">Billy Joe Franks (University of Kaiserslautern-Landau), Moshe Eliasof (University of Cambridge), Semih Cantürk (Université de Montréal & Mila), Guy Wolf (Université de Montréal & Mila), Carola-Bibiane Schönlieb (University of Cambridge), Sophie Fellenz (University of Kaiserslautern-Landau), Marius Kloft (University of Kaiserslautern-Landau)</td>
+  </tr>
+    <tr>
+    <td class="tg-j58y"><a href="https://openreview.net/forum?id=xdWP1d8BxI">Sparse Decomposition of Graph Neural Networks</a></td>
+    <td class="tg-j58y">Yaochen Hu (Huawei), Mai Zeng (McGill University & Mila), Ge Zhang (Huawei), Pavel Rumiantsev (McGill University & Mila), Liheng Ma (McGill University & Mila), Yingxue Zhang (Huawei), Mark Coates (McGill University & Mila)</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"><a href="https://openreview.net/forum?id=vzZ3pbNRvh">Graph Knowledge Distillation to Mixture of Experts</a></td>
+    <td class="tg-7zrl">Pavel Rumiantsev (McGill University & Mila), Mark Coates (McGill University & Mila)</td>
+  </tr>
+  </tbody></table>
