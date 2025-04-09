@@ -306,19 +306,21 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
   text-align:left;
   vertical-align:top;
   width: 400px; /* adjust to preferred width */
-  max-height: 100px; /* Adjust height as needed */
+  max-height: 150px; /* Adjust height as needed */
   overflow-y: auto;  /* Enables scrolling */
   display: block;    /* Allows height to take effect */
   }
 .tg .tg-0v55{background-color:#f9f9f9;text-align:left;vertical-align:bottom; width: 20px;}
 .tg .tg-j6zm{font-weight:bold;text-align:left;vertical-align:bottom}
 .tg .tg-j58y{background-color:#f9f9f9;text-align:left;vertical-align:bottom}
-.tg .tg-7zrl{text-align:left;vertical-align:bottom}
+.tg .tg-7zrl{
+  text-align:left;
+  vertical-align:bottom;}
 .tg .tg-0lax{
   text-align:left;
   vertical-align:top;
   width: 400px; /* adjust to preferred width */
-  max-height: 100px; /* Adjust height as needed */
+  max-height: 150px; /* Adjust height as needed */
   overflow-y: auto;  /* Enables scrolling */
   display: block;    /* Allows height to take effect */}
 .tg .tg-kex3{font-weight:bold;text-align:right;vertical-align:bottom}
