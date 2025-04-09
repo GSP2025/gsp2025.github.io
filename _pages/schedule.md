@@ -97,7 +97,7 @@ top_image_alt: "Montréal, Canada"
     <td class="tg-0pky"></td>
     <td class="tg-61xu">Speaker 2</td>
     <td class="tg-61xu">11:30-12:30</td>
-    <td class="tg-61xu">Dominique Beaini</td>
+    <td class="tg-61xu">Naoki Saito</td>
   </tr>
   <tr>
     <td class="tg-0pky">Lunch</td>
@@ -174,7 +174,7 @@ top_image_alt: "Montréal, Canada"
     <td class="tg-0pky"></td>
     <td class="tg-61xu">Speaker 3</td>
     <td class="tg-61xu">15:30-16:30</td>
-    <td class="tg-61xu">Naoki Saito </td>
+    <td class="tg-61xu">Dominique Beaini</td>
   </tr>
   <tr>
     <td class="tg-0pky">Dinner</td>
