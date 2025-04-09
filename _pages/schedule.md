@@ -215,11 +215,11 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 ##### **Speaker 2, Wednesday 11:30 - 12:30**
 [**Reihaneh Rabbany**](http://www.reirab.com), McGill University, Mila -- Quebec AI Institute
 
-**Title:** TBD
+**Title:** Benchmarks and Evaluation in Temporal Graph Learning
 
-**Abstract:** TBD
+**Abstract:** Learning from time-evolving graphs is crucial for understanding many real-world systems. However, effectively evaluating machine learning methods on temporal graphs presents significant challenges, including the lack of large, diverse datasets and inconsistencies in evaluation protocols. This talk will discuss novel benchmarks and evaluation strategies to address these challenges. First, we introduce new evaluation procedures and datasets for dynamic link prediction, focusing on more realistic negative sampling strategies and the importance of diverse data domains. Second, we present the Temporal Graph Benchmark (TGB), a collection of large-scale datasets and evaluation pipelines for temporal graph learning, covering both edge and node-level prediction tasks. Finally, we introduce TGB 2.0, which expands TGB to multi-relational temporal graphs, providing new benchmarks and evaluation protocols for temporal knowledge graphs and heterogeneous graphs. Through these benchmarks and evaluations, we aim to foster more rigorous and realistic assessments of temporal graph learning methods, ultimately driving advancements in the field.
 
-**Bio:** TBD
+**Bio:** Reihaneh Rabbany is a Canada CIFAR AI Chair, a core faculty member of Mila - Quebec's artificial intelligence institute, and an assistant professor at the School of Computer Science at McGill University. Before that she was a postdoctoral fellow at the School of Computer Science, Carnegie Mellon, and completed her Ph.D. in the Computing Science Department at the University of Alberta. Rabbany’s research is at the intersection of network science, data mining and machine learning, with a focus on developing techniques for analyzing large-scale complex data that is interconnected, evolving, multi-modal, and noisy. She is particularly interested in data from online societies and applications to enhance the health and safety of online spaces.
 
 <p id="Danai Koutra"></p>
 
