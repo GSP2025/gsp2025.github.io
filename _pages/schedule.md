@@ -226,11 +226,13 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 ##### **Wednesday Speaker 3, 11:30 - 12:30**
 [**Danai Koutra**](https://web.eecs.umich.edu/~dkoutra/), University of Michigan, Ann Arbor
 
-**Title:** TBD
+**Title:** Not all Neighbors Agree: Graph Learning Beyond Homophily
 
-**Abstract:** TBD
+**Abstract:** Graph neural networks (GNNs) have become a cornerstone of graph-based machine learning, demonstrating strong performance across a variety of applications spanning recommendation systems, molecular analysis, and social networks. While a wide variety of GNN models have been proposed, most of them perform best in graphs that exhibit the property of homophily, in which linked nodes often belong to the same class or have similar features, echoing the adage “birds of a feather flock together”. However, in the real world, there are also many settings where “opposites attract”, leading to networks that exhibit heterophily, in which linked nodes tend to be from different classes (e.g., protein-protein interaction networks or fraud detection scenarios). Moreover, even homophilic networks exhibit local variations in homophily, including strong heterophily.
 
-**Bio:** TBD
+In this talk, I will present our recent advances in understanding and improving GNNs in the presence of heterophily. I will introduce effective GNN designs for node classification and link prediction, and discuss how heterophily relates to core  challenges such as oversmoothing and robustness. Moving beyond global homophily, I will show how local homophily variations can lead to performance disparities across node groups, ultimately resulting in unfair predictions. Finally, I will present the limitations of standard positional encodings in heterophilic graphs and introduce a variant that improves performance across a range of GNN architectures, including graph transformers.
+
+**Bio:** Danai Koutra is an Associate Professor of Computer Science and Engineering at the University of Michigan and an Amazon Scholar. Her research interests include graph mining and learning, graph–LLM joint models, and graph summarization. Her work has been applied to social, collaboration, and web networks, as well as brain connectivity graphs. Danai has won the Presidential Early Career Award for Scientists and Engineers (PECASE), the 2024 IBM Early Career Data Mining Research Award, the 2023 Tao Li Award, an NSF CAREER Award, an ARO Young Investigator Award, the 2020 SIGKDD Rising Star Award, multiple industry-sponsored research faculty awards, a Precision Health Investigator Award, and the 2016 ACM SIGKDD Dissertation Award. She has also received nine paper awards and the 2022 IEEE ICDM Test-of-Time Award. In terms of service, she is currently Program Chair for the IJCAI 2025 Survey Track and has previously served as Program Chair for ACM SIGKDD, ECML/PKDD, and The Web Conference (track chair).
 
 
 <p id="Mathilde Papillon"></p>
