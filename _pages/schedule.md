@@ -399,7 +399,7 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
     <td class="tg-j58y">Srikar Mutnuri (University of Virginia)*; Aniruddha Adiga (University of Virginia); Srinivasan Venkatramanan (University of Virginia); Madhav V. Marathe (University of Virginia)</td>
     <td class="tg-buh4">Understanding the directed interactions between brain regions is critical for analyzing neuro-degenerative diseases like Alzheimer's (AD). Traditional functional connectivity (FC) methods capture statistical associations but fail to infer causal relationships, limiting their ability to reveal structural disruptions in disease progression. In this exploratory work, we propose a causal graph inference and spectral analysis framework for EEG signals. Specifically, we leverage Granger causality and spectral graph methods to construct and analyze the effective connectome (effectome) of the brain. Our work reveals that AD networks exhibit lower algebraic connectivity (λ2), reduced modularity (eigenvalue gaps), and increased structural sensitivity to perturbations, compared to healthy individuals. Additionally, we simulate diffusion processes on the inferred graph topology to model signal propagation, demonstrating disrupted information flow in AD-affected networks.</td>
   </tr>
-<tbody>
+</tbody>
 </table>
 
 ---
