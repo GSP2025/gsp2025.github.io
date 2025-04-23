@@ -130,7 +130,10 @@ news_limit: 5 # leave blank to include all the news in the `_news` folder
 # -----------------------------------------------------------------------------
 
 # Markdown and syntax highlight
-markdown: kramdown
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 highlighter: rouge
 kramdown:
   input: GFM
