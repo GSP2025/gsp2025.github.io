@@ -12,6 +12,9 @@ top_image_alt: "Montréal, Canada"
 
 ### Program Schedule
 
+<details>
+<summary>Click to expand/collapse</summary>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -189,7 +192,10 @@ top_image_alt: "Montréal, Canada"
   </tr>
 </tbody></table>
 
+</details>
+
 ---
+
 ### General Information
 
 Lectures in the oral sessions are 20-minutes long (including Q&As). We will have two poster sessions, (a) Wednesday 16:30-17:30, and (b) Thursday 14:00-15:00. The format of posters is flexible, but A0 size and portrait orientation are recommended.
@@ -197,7 +203,11 @@ Lectures in the oral sessions are 20-minutes long (including Q&As). We will have
 Our main excursion will be at the Montreal botanical gardens. Stay tuned for more info!
 
 ---
+
 ### Talks
+
+<details>
+<summary>Click to expand/collapse</summary>
 
 <p id="Bastian Rieck"></p>
 
@@ -291,10 +301,15 @@ In this talk, I will present our recent advances in understanding and improving 
 
 **Bio:** Dominique Beaini is a research unit team lead at Valence Discovery, and also serves as an adjunct professor in the Department of Computer Science and Operations Research at Université de Montréal and Mila -- Quebec AI Institute. His research interests include graph neural networks, self-supervised learning, quantum mechanics, drug discovery, computer vision, and robotics. Dominique completed his PhD at Polytechnique Montréal, focusing on robotics and computer vision.
 
+</details>
+
 ---
-## Accepted Papers
+
 
 ### Orals: Extended Abstract Track
+
+<details>
+<summary>Click to expand/collapse</summary>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;width: 100%; table-layout: fixed;}
@@ -338,8 +353,7 @@ In this talk, I will present our recent advances in understanding and improving 
     <th class="tg-j6zm"><span style="font-weight:bold">Paper Title</span></th>
     <th class="tg-j6zm"><span style="font-weight:bold">Authors</span></th>
     <th class="tg-j6zm"><span style="font-weight:bold">Abstract</span></th>
-  </tr>
-</thead>
+  </tr></thead>
 <tbody>
   <tr>
     <td class="tg-7zrl">Tracking Network Dynamics using Probabilistic State-Space Models</td>
@@ -401,12 +415,16 @@ In this talk, I will present our recent advances in understanding and improving 
     <td class="tg-j58y">Srikar Mutnuri (University of Virginia)*; Aniruddha Adiga (University of Virginia); Srinivasan Venkatramanan (University of Virginia); Madhav V. Marathe (University of Virginia)</td>
     <td class="tg-buh4">Understanding the directed interactions between brain regions is critical for analyzing neuro-degenerative diseases like Alzheimer's (AD). Traditional functional connectivity (FC) methods capture statistical associations but fail to infer causal relationships, limiting their ability to reveal structural disruptions in disease progression. In this exploratory work, we propose a causal graph inference and spectral analysis framework for EEG signals. Specifically, we leverage Granger causality and spectral graph methods to construct and analyze the effective connectome (effectome) of the brain. Our work reveals that AD networks exhibit lower algebraic connectivity (λ2), reduced modularity (eigenvalue gaps), and increased structural sensitivity to perturbations, compared to healthy individuals. Additionally, we simulate diffusion processes on the inferred graph topology to model signal propagation, demonstrating disrupted information flow in AD-affected networks.</td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
+
+</details>
 
 ---
 
 ### Posters: Extended Abstract Track
+
+<details>
+<summary>Click to expand/collapse</summary>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;width: 100%; table-layout: fixed;}
@@ -607,70 +625,16 @@ In this talk, I will present our recent advances in understanding and improving 
     <td class="tg-j58y">Shreyas Chaudhari ( Carnegie Mellon University); Srinivasa Pranav (Carnegie Mellon University)*; José M. F. Moura (Carnegie Mellon University)</td>
     <td class="tg-buh4">Directly parameterizing and learning gradients of functions has applications in inverse problems, generative modeling, and optimal transport. We introduce gradient networks (GradNets): neural network architectures that parameterize gradients of various function classes. We provide a GradNet design framework that includes methods for transforming them into monotone gradient networks (mGradNets), which represent gradients of convex functions. Our results establish that GradNets (and mGradNets) universally approximate gradients of (convex) functions. Furthermore, GradNets can be customized to correspond to specific spaces of potential functions, including transformed sums of (convex) ridge functions. We propose two distinct GradNet architectures and describe the corresponding monotone versions. Our empirical results demonstrate that these architectures outperform existing methods by up to 15 dB in gradient field tasks and by up to 11 dB in Hamiltonian dynamics learning tasks.</td>
   </tr>
-
-
-
-
-
-  <tr>
-    <td class="tg-7zrl">Leveraging Line Graph Representations to Improve GNN Convergence Rates</td>
-    <td class="tg-7zrl">Roxanne Holden (JHU)*; Luana Ruiz (JHU)</td>
-    <td class="tg-0lax">A graphon is a representation of ``families" of graphs and describes the limiting objects for sequences of large, finite graphs which are applicable to many areas including Graph Neural Networks (GNNs). Specifically, graphons in convergent graph sequences can be used to analyze the convergence and transferability of GNNs. Currently, there is a tradeoff between restrictive continuity assumptions of the graphon and increased computational cost when studying the convergence of the spectra of the graph to the spectra of the graphon. In this work, we propose a study of the rate of convergences of a graph and its associated line graph to improve convergence bounds applicable to GNNs.</td>
-  </tr>
-
-
-
-
-
-  <tr>
-    <td class="tg-j58y">Robustness of Graph Topology Learning with Smooth Signals under Partial Observations</td>
-    <td class="tg-j58y">Hoang-Son Nguyen (Oregon State University)*; Hoi-To Wai (The Chinese University of Hong Kong)</td>
-    <td class="tg-buh4">Recently, many sophisticated algorithms have been proposed for graph topology learning from partial observations. Most of them have relied on advanced structures such as low-rankness and sparsity, but would otherwise require the number of unobserved nodes to be significantly smaller than the graph size. The aim of this ongoing work is to demonstrate theoretically that simple graph topology learning methods are implicitly robust to partial observations of low pass filtered graph signals. We achieve this result through extending the RIP property for the Dirichlet energy function. We show that smoothness-based graph learning formulation on partial observations is able to learn the ground truth graph topology corresponding to the observed nodes.</td>
-  </tr>
-
-
-
-
-  <tr>
-    <td class="tg-7zrl">Joint Time-varying Graph Estimation / Signal Interpolation via Smoothness and Low-Rank Priors</td>
-    <td class="tg-7zrl">Saghar Bagheri (York University)*; Gene Cheung (York University); Tim Eadie (Growers Edge); Antonio Ortega (University of Southern California)</td>
-    <td class="tg-0lax">In graph signal processing scenarios where node similarities evolve over time, the underlying graph structure must adapt. <br>We model small changes between consecutive adjacency matrices as a low-rank matrix. Specifically, given an initial adjacency W1 at t=1, we jointly interpolate a signal x2 and estimate W2 at t=2 by leveraging a graph signal smoothness prior and a low-rank prior on W2-W1. Our approach alternates between computing x2 with fixed W2 using conjugate gradient and updating W2 with fixed x2 via a variant of proximal gradient descent. We show that the proximal mapping for rank(W2-W1) can be efficiently approximated in linear time using a fast greedy algorithm, where a few rank-1 update matrices capture key node-to-node interactions. <br>By unrolling algorithm iterations into layers, we construct a lightweight neural network for data-driven parameter tuning. Experiments demonstrate that our joint optimization outperforms existing graph learning methods in signal interpolation.</td>
-  </tr>
-  <tr>
-    <td class="tg-j58y">InfoGain: Furthering the Design of Diffusion Wavelets for Graph-Structured Data</td>
-    <td class="tg-j58y">David Johnson (Boise State University)*; Michael Perlmutter (Boise State University); Smita Krishnaswamy (Yale University)</td>
-    <td class="tg-buh4">Diffusion wavelets extract information from graph signals at different scales of resolution by utilizing graph diffusion operators raised to various powers, known as diffusion scales. Traditionally, the diffusion scales are chosen to be dyadic integers, $\mathbf{2^j}$. Here, we propose a novel, unsupervised method for selecting the diffusion scales based on ideas from information theory. We then show that our method can be incorporated into wavelet-based GNNs via graph classification experiments.</td>
-  </tr>
-  <tr>
-    <td class="tg-7zrl">Learning Graph Geometry and Topology Using Dynamical Systems Based Message-Passing</td>
-    <td class="tg-7zrl">Dhananjay Bhaskar (Yale University); Xingzhi Sun (Yale University)*; Yanlei Zhang (Mila - Quebec AI Institute); Charles Xu (Massachusetts Institute of Technology); Oluwadamilola Fasina (Yale University); Guy Wolf (Université de Montréal); Maximilian Nickel (Meta AI Research (FAIR)); Michael Perlmutter (Boise State University); Smita Krishnaswamy (Yale University)</td>
-    <td class="tg-0lax">We introduce DYMAG, a novel, efficient message-passing paradigm for Graph Neural Networks (GNNs) that leverages continuous multiscale dynamics on graphs. Unlike traditional discrete methods that rely on simple diffusion and aggregation, DYMAG employs complex dynamics—drawing on heat, wave, and chaotic equations—to capture deeper topological properties. By approximating continuous dynamics with Chebyshev polynomials of a graph Laplacian, it computes multiscale representations embodying key topological and spectral features without explicit topological computation. We demonstrate DYMAG’s superior performance in recovering random graph parameters, predicting persistent homology on synthetic and citation graphs, and outperforming existing methods in tasks such as protein shape prediction, total polar surface area, aromaticity, and material band gap estimation, underscoring its value in molecular research.</td>
-  </tr>
-  <tr>
-    <td class="tg-j58y">HiPoNet:A Topology-Preserving Multi-View Neural Network For High Dimensional Point Cloud and Single-Cell Data</td>
-    <td class="tg-j58y">Siddharth Viswanath (Yale University)*; Hiren Madhu (Yale University); Dhananjay Bhaskar (Yale University); Jake Kovalic (Yale University ); David Johnson (Boise State University); Rex Ying (Yale University); Christopher Tape (University College London); Ian Adelstein (Yale University); Michael Perlmutter (Boise State University); Smita Krishnaswamy (Yale University)</td>
-    <td class="tg-buh4">We propose HiPoNet, an end-to-end differentiable neural network for regression, classification, and representation learning on high dimensional point clouds. Existing point-cloud methods are tailored for 3D data hence struggle with scale and dimensionality of modern single-cell and spatial data. Most current approaches build a single nearest-neighbor graph, discarding important geometric information. In contrast, HiPoNet forms higher-order simplicial complexes through learnable feature reweighting, generating multiple data views that disentangle distinct biological processes. It then employs simplicial wavelet transforms to extract multi-scale features—capturing both local and global topology. We show that HiPoNet preserves topological information in the learned representations, and significantly outperforms state-of-the-art models on single cell and spatial transcriptomics datasets. Overall, HiPoNet offers a robust and scalable solution for high-dimensional data analysis.</td>
-  </tr>
-  <tr>
-    <td class="tg-7zrl">STAGED: A Multi-Agent Neural Network for Learning Cellular Interaction Dynamics</td>
-    <td class="tg-7zrl">João Felipe Rocha (Yale University)*; Xingzhi Sun (Yale University); Ke Xu (Yale University); Jake Kovalic (Yale University); Ananya Krishna (Yale University); Smita Krishnaswamy (Yale University); Mark Gerstein (Yale University); Andrei Chupakhin (Lomonosov Moscow State University)</td>
-    <td class="tg-0lax">The advent of single-cell technology has improved our understanding of cellular states and subpopulations in various tissues under normal and diseased conditions by using data-driven approaches like clustering and trajectory inference. However, these methods treat cells as independent data points. Spatial transcriptomics allows us to model cells as a dynamic system with interactions influencing cell states and communication. While agent-based modeling (ABM) provides a framework, traditional approaches rely on handcrafted rules rather than data. To address this, we introduce Spatial Temporal Agent-Based Graph Evolution Dynamics (STAGED), integrating ABM with deep learning. Using graph neural networks (GNNs) with shared weights per cell type, our model represents genes as vertices and interactions as edges, learning strengths via attention. Trained on time-lapse spatial data as a graph neural ODE (GDE), it captures intercellular and intracellular interactions adaptively.</td>
-  </tr>
-  <tr>
-    <td class="tg-j58y">Spatial Contrastive Pre-Training of Transformer Encoders for sEEG-Based Seizure Onset Zone Detection</td>
-    <td class="tg-j58y">Paulo Goncalves (Inria); Pierre Borgnat (ENS de Lyon)*; Zacharie Rodière (ENS de Lyon)</td>
-    <td class="tg-buh4">For the clinical study of epilepsy, we develop a transformer encoder for the detection of Seizure Onset Zone (SOZ) from stereo-EEG. It integrates clinically grounded time-frequency features with spatial contrastive pre-training. While prior spatial transformer approaches analyze learned representations, our method uniquely combines: (1) engineered time-frequency representations (TFRs) encoding epileptic spikes and oscillations, and (2) a contrastive objective leveraging anatomical relationships between the electrode contacts that are in the SOZ and the ones outside the SOZ.<br><br>The model processes heterogeneous sEEG records from different patients, using both ictal and interictal data. This contrastive strategy minimizes representational similarity between contact pairs on either side of the SOZ boundary while maximizing intra-SOZ similarity.<br><br>Attention heads provide interpretable connectivity patterns, bridging data-driven learning with the study of functional connectivity networks.</td>
-  </tr>
-  <tr>
-    <td class="tg-7zrl">Inferring the Graph Structure of Images for Graph Neural Networks</td>
-    <td class="tg-7zrl">Mayur Gowda (Carnegie Mellon University); John Shi (Carnegie Mellon University)*; Augusto Santos (Instituto de Telecomunicacoes-IT); Jose Moura (Carnegie Mellon University)</td>
-    <td class="tg-0lax">Image datasets such as MNIST are a key benchmark for testing GNN architectures. The images are traditionally represented as a grid graph with each node representing a pixel and edges connecting neighboring pixels (vertically and horizontally). The graph signal is the values (intensities) of each pixel in the image. The graphs are used as input to a GNN to classify the images.<br>In this work, we improve the accuracy of downstream graph neural network tasks by finding alternative graphs to the grid graph to represent the dataset images, following the approach in [4, 5]. We find row and column correlation graphs for each image in MNIST and Fashion-MNIST using correlations between the pixel values using the method in [4, 5]. We form the graph representing the image using the row and column graphs. We show that using these different graph representations as input into Graph CNNs and GAT improve the accuracy over using the traditional grid graph and other graph methods in the literature.</td>
-  </tr>
 </tbody></table>
+
+</details>
 
 ---
 
 ### Accepted Papers: TMLR Track
+
+<details>
+<summary>Click to expand/collapse</summary>
 
 <table class="tg" style="table-layout: fixed"><colgroup>
 <col style="width: 600px">
@@ -698,4 +662,6 @@ In this talk, I will present our recent advances in understanding and improving 
     <td class="tg-7zrl"><a href="https://openreview.net/forum?id=vzZ3pbNRvh">Graph Knowledge Distillation to Mixture of Experts</a></td>
     <td class="tg-7zrl">Pavel Rumiantsev (McGill University & Mila), Mark Coates (McGill University & Mila)</td>
   </tr>
-  </tbody></table>
+</tbody></table>
+
+</details>
