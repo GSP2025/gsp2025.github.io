@@ -12,8 +12,6 @@ top_image_alt: "Montréal, Canada"
 
 ### Program Schedule
 
-<details>
-<summary>Click to expand/collapse</summary>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -192,8 +190,6 @@ top_image_alt: "Montréal, Canada"
   </tr>
 </tbody></table>
 
-</details>
-
 ---
 
 ### General Information
@@ -213,9 +209,14 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 **Title:** TBD
 
+<details>
+<summary>Click to expand/collapse abstract & bio</summary>
+
 **Abstract:** TBD
 
 **Bio:** TBD
+
+</details>
 
 <p id="Reihaneh Rabbany"></p>
 
@@ -224,9 +225,14 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 **Title:** Benchmarks and Evaluation in Temporal Graph Learning
 
+<details>
+<summary>Click to expand/collapse abstract & bio</summary>
+
 **Abstract:** Learning from time-evolving graphs is crucial for understanding many real-world systems. However, effectively evaluating machine learning methods on temporal graphs presents significant challenges, including the lack of large, diverse datasets and inconsistencies in evaluation protocols. This talk will discuss novel benchmarks and evaluation strategies to address these challenges. First, we introduce new evaluation procedures and datasets for dynamic link prediction, focusing on more realistic negative sampling strategies and the importance of diverse data domains. Second, we present the Temporal Graph Benchmark (TGB), a collection of large-scale datasets and evaluation pipelines for temporal graph learning, covering both edge and node-level prediction tasks. Finally, we introduce TGB 2.0, which expands TGB to multi-relational temporal graphs, providing new benchmarks and evaluation protocols for temporal knowledge graphs and heterogeneous graphs. Through these benchmarks and evaluations, we aim to foster more rigorous and realistic assessments of temporal graph learning methods, ultimately driving advancements in the field.
 
 **Bio:** Reihaneh Rabbany is a Canada CIFAR AI Chair, a core faculty member of Mila - Quebec's artificial intelligence institute, and an assistant professor at the School of Computer Science at McGill University. Before that she was a postdoctoral fellow at the School of Computer Science, Carnegie Mellon, and completed her Ph.D. in the Computing Science Department at the University of Alberta. Rabbany’s research is at the intersection of network science, data mining and machine learning, with a focus on developing techniques for analyzing large-scale complex data that is interconnected, evolving, multi-modal, and noisy. She is particularly interested in data from online societies and applications to enhance the health and safety of online spaces.
+
+</details>
 
 <p id="Danai Koutra"></p>
 
@@ -235,12 +241,16 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 **Title:** Not all Neighbors Agree: Graph Learning Beyond Homophily
 
+<details>
+<summary>Click to expand/collapse abstract & bio</summary>
+
 **Abstract:** Graph neural networks (GNNs) have become a cornerstone of graph-based machine learning, demonstrating strong performance across a variety of applications spanning recommendation systems, molecular analysis, and social networks. While a wide variety of GNN models have been proposed, most of them perform best in graphs that exhibit the property of homophily, in which linked nodes often belong to the same class or have similar features, echoing the adage “birds of a feather flock together”. However, in the real world, there are also many settings where “opposites attract”, leading to networks that exhibit heterophily, in which linked nodes tend to be from different classes (e.g., protein-protein interaction networks or fraud detection scenarios). Moreover, even homophilic networks exhibit local variations in homophily, including strong heterophily.
 
 In this talk, I will present our recent advances in understanding and improving GNNs in the presence of heterophily. I will introduce effective GNN designs for node classification and link prediction, and discuss how heterophily relates to core  challenges such as oversmoothing and robustness. Moving beyond global homophily, I will show how local homophily variations can lead to performance disparities across node groups, ultimately resulting in unfair predictions. Finally, I will present the limitations of standard positional encodings in heterophilic graphs and introduce a variant that improves performance across a range of GNN architectures, including graph transformers.
 
 **Bio:** Danai Koutra is an Associate Professor of Computer Science and Engineering at the University of Michigan and an Amazon Scholar. Her research interests include graph mining and learning, graph–LLM joint models, and graph summarization. Her work has been applied to social, collaboration, and web networks, as well as brain connectivity graphs. Danai has won the Presidential Early Career Award for Scientists and Engineers (PECASE), the 2024 IBM Early Career Data Mining Research Award, the 2023 Tao Li Award, an NSF CAREER Award, an ARO Young Investigator Award, the 2020 SIGKDD Rising Star Award, multiple industry-sponsored research faculty awards, a Precision Health Investigator Award, and the 2016 ACM SIGKDD Dissertation Award. She has also received nine paper awards and the 2022 IEEE ICDM Test-of-Time Award. In terms of service, she is currently Program Chair for the IJCAI 2025 Survey Track and has previously served as Program Chair for ACM SIGKDD, ECML/PKDD, and The Web Conference (track chair).
 
+</details>
 
 <p id="Mathilde Papillon"></p>
 
@@ -249,10 +259,14 @@ In this talk, I will present our recent advances in understanding and improving 
 
 **Title:** Make Any Graph Neural Network Go Topological with TopoTune
 
+<details>
+<summary>Click to expand/collapse abstract & bio</summary>
+
 **Abstract:** Graph Neural Networks (GNNs) excel in learning from relational datasets, processing node and edge features in a way that preserves the symmetries of the graph domain. However, many complex systems--such as biological or social networks--involve multiway complex interactions that go beyond the graph’s pairwise relationships. The emerging field of Topological Deep Learning (TDL) aims to accommodate and leverage these higher-order structures. However, differently from the graph deep learning ecosystem, TDL lacks a standardized framework for easily defining new architectures, restricting its accessibility and applicability. In this talk, I will introduce TopoTune, a lightweight software that allows practitioners to define, build, and train general TDL models with unprecedented ease. Theoretical results show that TopoTune’s models generalize and subsume the current landscape of TDL models. Extensive experiments show that these architectures consistently match or outperform previous models, often with less model complexity.
 
 **Bio:** Mathilde Papillon is a Physics PhD candidate in the Geometric Intelligence Lab at the University of California Santa Barbara where she develops novel deep learning methods leveraging geometry and topology. She harnesses these models to study relational data, with a special focus on full-body human movement. Mathilde obtained her BSc in Honours Physics from McGill University and was recently awarded Canada’s Post Graduate Doctoral Fellowship.
 
+</details>
 
 <p id="Melanie Weber"></p>
 
@@ -261,9 +275,14 @@ In this talk, I will present our recent advances in understanding and improving 
 
 **Title:** A Geometric Lens on Challenges in Graph Machine Learning: Insights and Remedies
 
+<details>
+<summary>Click to expand/collapse abstract & bio</summary>
+
 **Abstract:** Graph Neural Networks (GNNs) are a popular architecture for learning on graphs. While they achieved notable success in areas such as biochemistry, drug discovery, and material sciences, GNNs are not without challenges: Deeper GNNs exhibit instability due to the convergence of node representations (oversmoothing), which can reduce their effectiveness in learning long-range dependencies that are often crucial in applications. In addition, GNNs have limited expressivity in that there are fundamental function classes that they cannot learn. In this talk we will discuss both challenges from a geometric perspective. We propose and study unitary graph convolutions, which allow for deeper networks that provably avoid oversmoothing during training. Our experimental results confirm that Unitary GNNs achieve competitive performance on benchmark datasets. An effective remedy for limited expressivity are encodings, which augment the input graph with additional structural information. We propose novel encodings based on discrete Ricci curvature, which lead to significant gains in empirical performance and expressivity thanks to capturing higher-order relational information. We then consider the more general question of how higher-order relational information can be leveraged most effectively in graph learning. We propose a set of encodings that are computed on a hypergraph parametrization of the input graph and provide theoretical and empirical evidence for their effectiveness.
 
 **Bio:** Melanie is an Assistant Professor of Applied Mathematics and of Computer Science at Harvard University, where she leads the Geometric Machine Learning Group. Her research studies geometric structure in data and how to leverage such information for the design of new, efficient Machine Learning algorithms with provable guarantees. In 2021-2022, she was a Hooke Research Fellow at the Mathematical Institute in Oxford. Previously, she received her PhD from Princeton University (2021). She is a recipient of the IMA Leslie Fox Prize in Numerical Analysis and a Sloan Research Fellowship in Mathematics.
+
+</details>
 
 <p id="Dhananjay Bhaskar"></p>
 
@@ -272,9 +291,14 @@ In this talk, I will present our recent advances in understanding and improving 
 
 **Title:** TBD
 
+<details>
+<summary>Click to expand/collapse abstract & bio</summary>
+
 **Abstract:** TBD
 
 **Bio:** TBD
+
+</details>
 
 <p id="Naoki Saito"></p>
 
@@ -283,9 +307,14 @@ In this talk, I will present our recent advances in understanding and improving 
 
 **Title:** Generalized Haar-Walsh Dictionaries: Extensions and Applications
 
+<details>
+<summary>Click to expand/collapse abstract & bio</summary>
+
 **Abstract:** I will discuss my group's effort to generalize and extend the classical Haar-Walsh wavelet packet transforms for graphs, matrix data, and images. Using a recursive partitioning of the graph and successive averaging and differencing operations, we proposed the Generalized Haar-Walsh Transform (GHWT) in 2014, which generates an overcomplete dictionary of orthonormal bases of piecewise constant nature. Then, in 2021, we lifted the GHWT for higher adaptability using the method originally developed by Thiele and Villemoes for 1D regular lattices (1996) and that of Lindberg and Villemoes for 2D regular lattices (2000). It significantly improved the previous GHWT with the similar computational cost, O(n log n) where n is a number of vertices of an input graph. While the previous GHWT best-basis algorithm seeks the most suitable orthonormal basis for a given task among more than 1.5^n possible bases, the eGHWT best-basis algorithm can find a better one by searching through more than 0.618*(1.84)^n possible bases. The difference between these two is huge especially for large n. As applications, we will discuss an idea of performing simultaneous segmentation, denoising, and compression of graph signals, texture images, and term-document matrix analysis. If the time permits, I will also describe our recent generalization of the scattering transform---a robust nonlinear signal feature extraction tool---using the GHWT/eGHWT.
 
 **Bio:** Naoki Saito is an applied mathematician specializing in applied and computational harmonic analysis. He studied at the University of Tokyo, receiving his BEng and MEng in 1982 and 1984, respectively. He joined Nippon Schlumberger K.K. in 1984; in 1986 moved to Schlumberger-Doll Research, Ridgefield, CT, where he was a research scientist. He continued his studies, receiving his PhD in applied mathematics from Yale University in 1994. He began teaching at the Department of Mathematics at the University of California, Davis in 1997, where he is currently a professor and a director of the UC Davis TETRAPODS Institute of Data Science. His honor includes: the Best Paper Awards from SPIE (1994); the Henri Doll Award from Schlumberger (1996); ONR Young Investigator Award (2000); the Presidential Early Career Award for Scientists and Engineers [PECASE] (2000); the Best Paper Award from JSIAM (2016); the Best Author Award from JSIAM (2016). He is a life senior member of IEEE. He also served as Chair of the SIAM Activity Group on Imaging Science from 2013 to 2015, and is a member of the editorial board of the three international journals: Applied and Computational Harmonic Analysis; Inverse Problems and Imaging; Journal of Mathematical Imaging and Vision.
+
+</details>
 
 <p id="Dominique Beaini"></p>
 
@@ -294,9 +323,14 @@ In this talk, I will present our recent advances in understanding and improving 
 
 **Title:** How to Learn Molecules
 
+<details>
+<summary>Click to expand/collapse abstract & bio</summary>
+
 **Abstract:** How can we build powerful representation of molecules for drug discovery? We'll dive in the different algorithms, the challenges that they face in terms of expressivity, and how to overcome them. We'll discuss building positional and structural encodings, and how they can make GNNs quite expressive without algorithmic changes. Then, we'll see how to build graph Transformers for pre-training on large molecular datasets, and scale them to infinity. Finally, we'll step into the world of multi-modality to learn how molecules impact human cells from a morphological perspective.
 
 **Bio:** Dominique Beaini is a research unit team lead at Valence Discovery, and also serves as an adjunct professor in the Department of Computer Science and Operations Research at Université de Montréal and Mila -- Quebec AI Institute. His research interests include graph neural networks, self-supervised learning, quantum mechanics, drug discovery, computer vision, and robotics. Dominique completed his PhD at Polytechnique Montréal, focusing on robotics and computer vision.
+
+</details>
 
 ---
 
