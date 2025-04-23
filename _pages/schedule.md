@@ -206,9 +206,6 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 ### Talks
 
-<details>
-<summary>Click to expand/collapse</summary>
-
 <p id="Bastian Rieck"></p>
 
 ##### **Wednesday Speaker 1, 9:00 - 10:00**
@@ -300,8 +297,6 @@ In this talk, I will present our recent advances in understanding and improving 
 **Abstract:** How can we build powerful representation of molecules for drug discovery? We'll dive in the different algorithms, the challenges that they face in terms of expressivity, and how to overcome them. We'll discuss building positional and structural encodings, and how they can make GNNs quite expressive without algorithmic changes. Then, we'll see how to build graph Transformers for pre-training on large molecular datasets, and scale them to infinity. Finally, we'll step into the world of multi-modality to learn how molecules impact human cells from a morphological perspective.
 
 **Bio:** Dominique Beaini is a research unit team lead at Valence Discovery, and also serves as an adjunct professor in the Department of Computer Science and Operations Research at Université de Montréal and Mila -- Quebec AI Institute. His research interests include graph neural networks, self-supervised learning, quantum mechanics, drug discovery, computer vision, and robotics. Dominique completed his PhD at Polytechnique Montréal, focusing on robotics and computer vision.
-
-</details>
 
 ---
 
