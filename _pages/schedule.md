@@ -57,35 +57,35 @@ top_image_alt: "Montréal, Canada"
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-7od5">Contributed Talk A1</td>
+    <td class="tg-7od5">Oral A1</td>
     <td class="tg-7od5">10:15-10:35</td>
     <td class="tg-7od5"></td>
-    <td class="tg-7od5">Contributed Talk C1</td>
+    <td class="tg-7od5">Oral C1</td>
     <td class="tg-7od5">10:15-10:35</td>
     <td class="tg-7od5"></td>
-    <td class="tg-7od5">Contributed Talk D1</td>
+    <td class="tg-7od5">Oral D1</td>
     <td class="tg-7od5">10:15-10:35</td>
     <td class="tg-7od5"></td>
   </tr>
   <tr>
-    <td class="tg-7od5">Contributed Talk A2</td>
+    <td class="tg-7od5">Oral A2</td>
     <td class="tg-7od5">10:35-10:55</td>
     <td class="tg-7od5"></td>
-    <td class="tg-7od5">Contributed Talk C2</td>
+    <td class="tg-7od5">Oral C2</td>
     <td class="tg-7od5">10:35-10:55</td>
     <td class="tg-7od5"></td>
-    <td class="tg-7od5">Contributed Talk D2</td>
+    <td class="tg-7od5">Oral D2</td>
     <td class="tg-7od5">10:35-10:55</td>
     <td class="tg-7od5"></td>
   </tr>
   <tr>
-    <td class="tg-7od5">Contributed Talk A3</td>
+    <td class="tg-7od5">Oral A3</td>
     <td class="tg-7od5">10:55-11:15</td>
     <td class="tg-7od5"></td>
-    <td class="tg-7od5">Contributed Talk C3</td>
+    <td class="tg-7od5">Oral C3</td>
     <td class="tg-7od5">10:55-11:15</td>
     <td class="tg-7od5"></td>
-    <td class="tg-7od5">Contributed Talk D3</td>
+    <td class="tg-7od5">Oral D3</td>
     <td class="tg-7od5">10:55-11:15</td>
     <td class="tg-7od5"></td>
   </tr>
@@ -112,7 +112,7 @@ top_image_alt: "Montréal, Canada"
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-7od5">Contributed Talk B1</td>
+    <td class="tg-7od5">Oral B1</td>
     <td class="tg-7od5">14:00-14:20</td>
     <td class="tg-7od5"></td>
     <td class="tg-90e1">Poster Session 2</td>
@@ -123,7 +123,7 @@ top_image_alt: "Montréal, Canada"
     <td class="tg-pidv"></td>
   </tr>
   <tr>
-    <td class="tg-7od5">Contributed Talk B2</td>
+    <td class="tg-7od5">Oral B2</td>
     <td class="tg-7od5">14:20-14:40</td>
     <td class="tg-7od5"></td>
     <td class="tg-x6qq">Travel to Excursion</td>
@@ -134,7 +134,7 @@ top_image_alt: "Montréal, Canada"
     <td class="tg-pidv"></td>
   </tr>
   <tr>
-    <td class="tg-7od5">Contributed Talk B3</td>
+    <td class="tg-7od5">Oral B3</td>
     <td class="tg-7od5">14:40-15:00</td>
     <td class="tg-7od5"></td>
     <td class="tg-x6qq">Excursion </td>
@@ -334,73 +334,87 @@ In this talk, I will present our recent advances in understanding and improving 
 
 </style>
 <table class="tg" style="table-layout: fixed"><colgroup>
+<col style="width: 50px">
 <col style="width: 400px">
 <col style="width: 400px">
 <col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
+    <th class="tg-j6zm"><span style="font-weight:bold">Oral ID</span></th>
     <th class="tg-j6zm"><span style="font-weight:bold">Paper Title</span></th>
     <th class="tg-j6zm"><span style="font-weight:bold">Authors</span></th>
     <th class="tg-j6zm"><span style="font-weight:bold">Abstract</span></th>
   </tr></thead>
 <tbody>
   <tr>
+    <td class="tg-7zrl">A1</td>
     <td class="tg-7zrl">Tracking Network Dynamics using Probabilistic State-Space Models</td>
     <td class="tg-7zrl">Víctor Tenorio (King Juan Carlos University)*; Elvin Isufi (TU Delft); Geert Leus (TU Delft); Antonio G. Marques (King Juan Carlos University)</td>
     <td class="tg-0lax">This paper introduces a probabilistic approach for tracking the dynamics of unweighted and directed graphs using state-space models (SSMs). Unlike conventional topology inference methods that assume static graphs and generate point-wise estimates, our method accounts for dynamic changes in the network structure over time. We model the network at each timestep as the state of the SSM, and use observations to update the beliefs that quantify the probability of the network being in a particular state. Then, the proposed method incorporates the information of real-time graph signals into the beliefs. These beliefs provide a probability distribution of the network at each timestep, providing both an estimate of the network and the uncertainty it entails. Our approach is evaluated through experiments with synthetic and real-world networks. The results demonstrate that our method effectively estimates network states, outperforming traditional techniques such as recursive least squares.</td>
   </tr>
   <tr>
+    <td class="tg-j58y">A2</td>
     <td class="tg-j58y">Learning Graphs from Structural Vector Autoregressions with Sparse Input</td>
     <td class="tg-j58y">Panagiotis Misiakos (ETH Zurich)*; Markus Püschel (ETH Zurich)</td>
     <td class="tg-buh4">We introduce SpinSVAR, a novel method for estimating a structural vector autoregression (SVAR) from time-series data under sparse input assumption. Unlike prior approaches using Gaussian noise, we model the input as independent Laplacian variables, enforcing sparsity and yielding a maximum likelihood estimator (MLE) based on least absolute error regression. <br>We provide theoretical consistency guarantees for the MLE under mild assumptions. SpinSVAR is efficient: it can leverage GPU acceleration to scale to thousands of nodes. On synthetic data with Laplacian or Bernoulli-uniform inputs, SpinSVAR outperforms state-of-the-art methods in accuracy and runtime. When applied to S&amp;P 500 data, it clusters stocks by sectors and identifies significant structural shocks linked to major price movements, demonstrating the viability of our sparse input assumption.<br></td>
   </tr>
   <tr>
+    <td class="tg-7zrl">A3</td>
     <td class="tg-7zrl">Online Network Inference from Graph-Stationary Signals with Hidden Nodes</td>
     <td class="tg-7zrl">Andrei Buciulea Vlas (Universidad Rey Juan Carlos)*; Madeline Navarro (Rice University); Samuel Rey Escudero ( Universidad Rey Juan Carlos); Santiago Segarra (Rice University); Antonio García Marqués (Universidad Rey Juan Carlos)</td>
     <td class="tg-0lax">Graph learning is the fundamental task of estimating unknown graph connectivity from available data. Traditional methods assume full, simultaneous data availability, but real-world scenarios often involve incomplete, sequential data. We propose an online graph estimation method that accounts for hidden nodes. By leveraging signals stationary on the underlying graph, we model unknown connections to hidden nodes. We formulate a convex optimization problem for graph learning from streaming, incomplete signals and solve it via an efficient proximal gradient algorithm that operates in real-time. We establish theoretical conditions ensuring that our online method aligns with batch solutions. Experiments on synthetic and real data validate the effectiveness of our approach for online graph learning with missing observations.</td>
   </tr>
   <tr>
+    <td class="tg-j58y">B1</td>
     <td class="tg-j58y">Leveraging Line Graph Representations to Improve GNN Convergence Rates</td>
     <td class="tg-j58y">Roxanne Holden (JHU)*; Luana Ruiz (JHU)</td>
     <td class="tg-buh4">A graphon is a representation of ``families" of graphs and describes the limiting objects for sequences of large, finite graphs which are applicable to many areas including Graph Neural Networks (GNNs). Specifically, graphons in convergent graph sequences can be used to analyze the convergence and transferability of GNNs. Currently, there is a tradeoff between restrictive continuity assumptions of the graphon and increased computational cost when studying the convergence of the spectra of the graph to the spectra of the graphon. In this work, we propose a study of the rate of convergences of a graph and its associated line graph to improve convergence bounds applicable to GNNs.</td>
   </tr>
   <tr>
+    <td class="tg-7zrl">B2</td>
     <td class="tg-7zrl">HyperNATE: Scaling Tensor-Based Hypergraph Neural Networks Through Attention</td>
     <td class="tg-7zrl">Nicolas Bello (University of Delaware)*; Fuli Wang (University of Delaware); Daniel Lau (University of Kentucky); Gonzalo Arce (University of Delaware)</td>
     <td class="tg-0lax">Hypergraphs are vital for modeling high-order relationships in complex systems across various domains.This has spurred significant research interest in hypergraph neural networks. Currently, existing hypergraph neural networks face two key challenges: (1) tensor-based representations preserve rich structural information but incur heavy computational costs during training due to message passing operations, and (2) prevalent homophily assumptions fail to model the growing number of heterophilic datasets. To address these gaps, we introduce the Hypergraph Neighborhood Aggregation Transformer Encoder (HyperNATE), which decouples tensor-based message aggregation from training and leverages an attention mechanism to enable parallel multi-hop aggregation.Additionally, a high-pass filter is incorporated to effectively capture heterophilic features.Empirical evaluations on node classification tasks show that HyperNATE is 10-100x faster in training than tensor-based approaches.</td>
   </tr>
   <tr>
+    <td class="tg-j58y">B3</td>
     <td class="tg-j58y">FedBaF: Federated Learning Aggregation Biased by a Foundation Model</td>
     <td class="tg-j58y">Jong-Ik Park (Carnegie Mellon University); Srinivasa Pranav (Carnegie Mellon University)*; José M. F. Moura ( Carnegie Mellon University); Carlee Joe-Wong (Carnegie Mellon University)</td>
     <td class="tg-buh4">Foundation models are now a major focus because they generalize across diverse tasks. Existing approaches for adapting foundation models to new applications often rely on Federated Learning (FL) and disclose the foundation model weights to clients when using it to initialize the global model. These methods ensure client data privacy, but compromise model and information security. We introduce Federated Learning Aggregation Biased by a Foundation Model (FedBaF), a method for dynamically integrating pre-trained foundation model weights during the FL aggregation phase. FedBaF keeps the foundation model confidential while still leveraging it to train more accurate models, especially in non-IID and adversarial scenarios. Our comprehensive experiments use Pre-ResNet and foundation models like Vision Transformer to demonstrate that FedBaF matches and often surpasses traditional weight initialization methods by up to 11.4% in IID and up to 15.8% in non-IID settings.</td>
   </tr>
   <tr>
+    <td class="tg-7zrl">C1</td>
     <td class="tg-7zrl">Multimodal Graphs for Diffusion-Based Manifold Alignment</td>
     <td class="tg-7zrl">Jake Rhodes (Brigham Young University)*; Adam Rustad (Brigham Young University)</td>
     <td class="tg-0lax">Data from various sources are often intrinsically linked. Multimodal data integration enriches information content over single-source data. Manifold alignment seeks a shared low-dimensional representation of multiple data sources, emphasizing similarities. Semi-supervised manifold alignment relies on partial correspondences, either through shared features or known associations. We introduce two, graph-based alignment methods: SPUD (Shortest Paths on the Union of Domains) constructs a unified graph via known correspondences to learn inter-domain geodesic distances. MASH (Manifold Alignment via Stochastic Hopping) captures local geometry and iteratively refines inter-domain correspondences via a diffusion process. MASH forms a coupling matrix linking heterogeneous domains. We compare SPUD and MASH with existing methods, showing superior alignment and cross-domain classification, and demonstrate label transfer applications.</td>
   </tr>
   <tr>
+    <td class="tg-j58y">C2</td>
     <td class="tg-j58y">Landmark-Based Node Embeddings and Graph Distance Approximations</td>
     <td class="tg-j58y">My Le (Johns Hopkins University)*; Luana Ruiz (Johns Hopkins University); Souvik Dhara (Purdue University)</td>
     <td class="tg-buh4">Learning node representations is a core problem in graph machine learning. Although existing embedding methods effectively capture local similarity measures, they often fall short when it comes to preserving global functions such as graph distances. Motivated by Bourgain's pioneering work on Hilbert space embeddings of metric spaces (1985), we examine the performance of local distance-preserving node embeddings. These embeddings, known as landmark-based algorithms, approximate pairwise distances by calculating shortest paths from a small subset of reference nodes, called landmarks. Our primary theoretical contribution demonstrates that random graphs, such as Erdős–Rényi random graphs, require lower dimensions for landmark-based embeddings compared to worst-case graphs. Additionally, we show empirically that the GNN-based approximations of distances to landmarks generalize effectively to larger networks, providing a scalable solution for graph representation learning.</td>
   </tr>
   <tr>
+    <td class="tg-7zrl">C3</td>
     <td class="tg-7zrl">Consistent Identification of Top-K Nodes in Noisy Networks</td>
     <td class="tg-7zrl">Hui Shen (McGill University)*; Eric Kolaczyk (McGill University)</td>
     <td class="tg-0lax">Identifying important nodes in a network, often measured by centrality, is a key challenge in network analysis. However, real-world networks are often noisy or incomplete, distorting rankings and misidentifying key nodes. In this paper, we examine how network noise impacts the accurate recovery of top-k nodes. Specifically, we consider a model where the observed network is a noisy version of a true network, with edges randomly added or removed according to a probabilistic noise model. Under this framework, we establish conditions for consistent recovery of top-k nodes and assess their feasibility across common network models. We also explore the challenges of detecting key nodes under high noise and discuss broader implications. For cases between consistency and infeasibility, we propose a confidence set approach to ensure key nodes are included with high probability. We also provide an initial analysis of eigenvector centrality, on its robustness to spectral perturbations from noise.</td>
   </tr>
   <tr>
+    <td class="tg-j58y">D1</td>
     <td class="tg-j58y">Graph Signal Processing: Frequency Analysis for Similar Matrices</td>
     <td class="tg-j58y">John Shi (Carnegie Mellon University)*; Jose Moura (Carnegie Mellon University)</td>
     <td class="tg-buh4">Spectral analysis is a fundamental part of both<br>DSP and GSP. Many signal processing applications rely on performing a spectral analysis by taking the Fourier transform.<br>In both DSP and GSP, the ordering of the frequencies (from<br>low to high) are determined by total variation of the eigenvectors. Additionally, eigenvectors associated with low frequencies have similar values between adjacent or neighboring nodes, while eigenvectors associated with high frequencies have larger oscillations between neighboring nodes. In this paper, we examine frequency analysis of “similar” graphs, i.e., graphs whose adjacency matrices are related by a similarity transformation. Similar matrices have the same eigenvalues, but different eigenvectors and entries. We show that the frequency signal, and frequency ordering is preserved across similar graphs. We examine examples of these similar graphs through the GSP companion model ([1]) that shows that GSP is DSP with appropriate boundary conditions.</td>
   </tr>
   <tr>
+    <td class="tg-7zrl">D2</td>
     <td class="tg-7zrl">Interpretable Lightweight Transformer via Unrolling of Learned Graph Smoothness Priors</td>
     <td class="tg-7zrl">Tam Thuc Do (York University)*; Parham Eftekhar (York University); Seyed Alireza Hosseini (York University); Gene Cheung (York University); Philip A. Chou (packet.media)</td>
     <td class="tg-0lax">We build interpretable and lightweight transformer-like neural networks by unrolling iterative optimization algorithms that minimize graph smoothness priors---e.g., the $\ell_1$-norm graph total variation (GTV)---subject to an interpolation constraint. The insight is that a normalized signal-dependent graph learning module amounts to a variant of the basic self-attention mechanism in conventional transformers.<br>Unlike ``black-box'' transformers that require learning huge parameter sets to compute the affinities and subsequent output embeddings, our unrolled networks employ shallow CNNs to learn low-dimensional features per node to construct similarity graphs. At each layer, the target interpolated signal is a low-pass graph filtered output derived from the minimization of an assumed graph smoothness prior, leading to a reduction in parameter count. Experiments for two image interpolation applications verify the restoration performance and parameter efficiency of our unrolled networks.</td>
   </tr>
   <tr>
+    <td class="tg-j58y">D3</td>
     <td class="tg-j58y">Causal Analysis of Graph Signals for Brain Effectome Inference</td>
     <td class="tg-j58y">Srikar Mutnuri (University of Virginia)*; Aniruddha Adiga (University of Virginia); Srinivasan Venkatramanan (University of Virginia); Madhav V. Marathe (University of Virginia)</td>
     <td class="tg-buh4">Understanding the directed interactions between brain regions is critical for analyzing neuro-degenerative diseases like Alzheimer's (AD). Traditional functional connectivity (FC) methods capture statistical associations but fail to infer causal relationships, limiting their ability to reveal structural disruptions in disease progression. In this exploratory work, we propose a causal graph inference and spectral analysis framework for EEG signals. Specifically, we leverage Granger causality and spectral graph methods to construct and analyze the effective connectome (effectome) of the brain. Our work reveals that AD networks exhibit lower algebraic connectivity (λ2), reduced modularity (eigenvalue gaps), and increased structural sensitivity to perturbations, compared to healthy individuals. Additionally, we simulate diffusion processes on the inferred graph topology to model signal propagation, demonstrating disrupted information flow in AD-affected networks.</td>
