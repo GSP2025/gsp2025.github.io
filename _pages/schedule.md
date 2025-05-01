@@ -334,7 +334,7 @@ In this talk, I will present our recent advances in understanding and improving 
 
 </style>
 <table class="tg" style="table-layout: fixed"><colgroup>
-<col style="width: 50px">
+<col style="width: 57px">
 <col style="width: 400px">
 <col style="width: 400px">
 <col style="width: 400px">
