@@ -272,7 +272,7 @@ In this talk, I will present our recent advances in understanding and improving 
 
 <p id="Naoki Saito"></p>
 
-##### **Friday Speaker 2, 15:30 - 16:30**
+##### **Friday Speaker 2, 11:30 - 12:30**
 [**Naoki Saito**](https://www.math.ucdavis.edu/~saito/), UC Davis
 
 **Title:** Generalized Haar-Walsh Dictionaries: Extensions and Applications
@@ -283,7 +283,7 @@ In this talk, I will present our recent advances in understanding and improving 
 
 <p id="Dominique Beaini"></p>
 
-##### **Friday Speaker 3, 11:30 - 12:30**
+##### **Friday Speaker 3, 15:30 - 16:30**
 [**Dominique Beaini**](https://mila.quebec/en/directory/dominique-beaini), Valence Labs, Université de Montréal, Mila -- Quebec AI Institute
 
 **Title:** How to Learn Molecules
