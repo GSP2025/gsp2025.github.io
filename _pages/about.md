@@ -24,6 +24,9 @@ GSP 2025 is kindly supported by Mila -- Quebec AI Institute, Centre de recherche
 
 ---
 #### News
++ **[2025/04/08]** The list of accepted papers and program schedule is now up in our [Program page](https://gspworkshop.org/schedule/).
++ **[2025/04/08]** Updated information on the venue, including transport and accommodation, is added to our [Venue page](https://gspworkshop.org/venue/).
++ **[2023/03/04]** Notifications of acceptance for all tracks have been sent.
 + **[2025/02/01]** The registration form is now live [here](https://www.crmath.ca/act/crm_moneris/app/views/Form/inscr_GSP25_e.php).
 + **[2025/01/09]** The website is now up.
 
