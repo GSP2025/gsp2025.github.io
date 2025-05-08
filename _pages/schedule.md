@@ -427,6 +427,7 @@ In this talk, I will present our recent advances in understanding and improving 
 
 ### Posters: Extended Abstract Track
 
+#### Session 1
 <details>
 <summary>Click to expand/collapse</summary>
 
@@ -560,6 +561,31 @@ In this talk, I will present our recent advances in understanding and improving 
     <td class="tg-buh4">We develop a method, called PASCO, to accelerate clustering algorithms. It has three steps:<br>1- We compute several independent small graphs representing the input graph by applying an efficient and structure-preserving coarsening algorithm. <br>2- A clustering algorithm is run in parallel onto each small graph and provides several partitions of the initial graph. <br>3- These partitions are aligned and combined with an optimal transport method to output the final partition. <br>This framework relies on two key contributions: <br>a novel global algorithm structure designed to enable parallelization and a fast, empirically validated graph coarsening algorithm that preserves structural properties.<br>We demonstrate the strong performance of PASCO in terms of computational efficiency, structural preservation, and output partition quality, evaluated on both synthetic and real-world graph datasets.</td>
   </tr>
   <tr>
+    <td class="tg-7zrl">Graph Pooling via Ricci Flow</td>
+    <td class="tg-7zrl">Amy Feng (Harvard University), Melanie Weber (Harvard University)</td>
+    <td class="tg-0lax">Graph Machine Learning often involves the clustering of nodes based on similarity structure encoded in the graph's topology and the nodes' attributes. On homophilous graphs, the integration of pooling layers has been shown to enhance the performance of Graph Neural Networks by accounting for inherent multi-scale structure. Here, similar nodes are grouped together to coarsen the graph and reduce the input size in subsequent layers in deeper architectures. In both settings, the underlying clustering approach can be implemented via graph pooling operators, which often rely on classical tools from Graph Theory. In this work, we introduce a graph pooling operator (ORC-Pool), which utilizes a characterization of the graph's geometry via Ollivier's discrete Ricci curvature and an associated geometric flow. Previous Ricci flow based clustering approaches have shown great promise across several domains, but are by construction unable to account for similarity structure encoded in the node attributes. However, in many ML applications, such information is vital for downstream tasks. ORC-Pool extends such clustering approaches to attributed graphs, allowing for the integration of geometric coarsening into Graph Neural Networks as a pooling layer.</td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+
+#### Session 2
+<details>
+<summary>Click to expand/collapse</summary>
+<table class="tg" style="table-layout: fixed"><colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-j6zm"><span style="font-weight:bold">Paper Title</span></th>
+    <th class="tg-j6zm"><span style="font-weight:bold">Authors</span></th>
+    <th class="tg-j6zm"><span style="font-weight:bold">Abstract</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
     <td class="tg-7zrl">Estimating fair graphs with unbiased connections</td>
     <td class="tg-7zrl">Madeline Navarro (Rice University)*; Samuel Rey (King Juan Carlos University); Andrei Buciulea (King Juan Carlos University); Antonio Marques (King Juan Carlos University); Santiago Segarra (Rice University)</td>
     <td class="tg-0lax">We propose estimating graphs that are fair with respect to sensitive nodal attributes. Many real-world models exhibit unfair discriminatory behavior due to biases in data. Such discrimination is known to be exacerbated when data is equipped with pairwise relationships encoded in a graph. We thus propose an optimization-based approach to accurately infer graphs while discouraging biased edges. To this end, we present bias metrics that measure topological demographic parity to be applied as convex penalties. We also propose an efficient proximal gradient algorithm to obtain the estimates. Theoretically, we express the tradeoff between fair and accurate estimated graphs. Critically, this includes demonstrating when accuracy can be preserved in the presence of a fairness regularizer. Our empirical validation includes synthetic and real-world simulations that illustrate the value and effectiveness of our proposed optimization problem and iterative algorithm.</td>
@@ -644,7 +670,8 @@ In this talk, I will present our recent advances in understanding and improving 
     <td class="tg-j58y">Paulo Goncalves (Inria); Pierre Borgnat (ENS de Lyon)*; Zacharie Rodière (ENS de Lyon)</td>
     <td class="tg-buh4">For the clinical study of epilepsy, we develop a transformer encoder for the detection of Seizure Onset Zone (SOZ) from stereo-EEG. It integrates clinically grounded time-frequency features with spatial contrastive pre-training. While prior spatial transformer approaches analyze learned representations, our method uniquely combines: (1) engineered time-frequency representations (TFRs) encoding epileptic spikes and oscillations, and (2) a contrastive objective leveraging anatomical relationships between the electrode contacts that are in the SOZ and the ones outside the SOZ.<br><br>The model processes heterogeneous sEEG records from different patients, using both ictal and interictal data. This contrastive strategy minimizes representational similarity between contact pairs on either side of the SOZ boundary while maximizing intra-SOZ similarity.<br><br>Attention heads provide interpretable connectivity patterns, bridging data-driven learning with the study of functional connectivity networks.</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 </details>
 
