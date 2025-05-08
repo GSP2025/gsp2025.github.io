@@ -13,7 +13,11 @@ top_image_alt: "Montréal, Canada"
 ### Program Schedule
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;table-layout:fixed;width:100%;}
+.tg            { border-collapse: collapse; table-layout: fixed; width: 100%; }
+.tg col:nth-child(1) { width: 15%; }   /* column 1 */
+.tg col:nth-child(2) { width: 15%; }   /* column 2 */
+.tg col:nth-child(3) { width: 70%; }   /* column 3 */
+
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -25,10 +29,7 @@ top_image_alt: "Montréal, Canada"
 .tg .tg-90e1{background-color:#ffccc9;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-pidv{background-color:#ffce93;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-x6qq{background-color:#dae8fc;border-color:inherit;text-align:left;vertical-align:top}
-/* Column width specifications */
-.tg td:nth-of-type(1) {width: 15%;} /* First column (Session/Time) */
-.tg td:nth-of-type(2) {width: 15%;} /* Second column (Time) */
-.tg td:nth-of-type(3) {width: 70%;} /* Third column (Title) */
+
 </style>
 
 
@@ -36,7 +37,12 @@ top_image_alt: "Montréal, Canada"
 <details open>
 <summary>Click to expand/collapse</summary>
 
-<table class="tg"><thead>
+<table class="tg">
+  <!-- column widths -->
+  <colgroup>
+    <col> <col> <col>
+  </colgroup>
+<thead>
   <tr>
     <th class="tg-fymr" colspan="3">Wednesday</th>
   </tr></thead>
@@ -119,7 +125,12 @@ top_image_alt: "Montréal, Canada"
 <details open>
 <summary>Click to expand/collapse</summary>
 
-<table class="tg"><thead>
+<table class="tg">
+  <!-- column widths -->
+  <colgroup>
+    <col> <col> <col>
+  </colgroup>
+<thead>
   <tr>
     <th class="tg-fymr" colspan="3">Thursday</th>
   </tr></thead>
@@ -182,7 +193,12 @@ top_image_alt: "Montréal, Canada"
 <details open>
 <summary>Click to expand/collapse</summary>
 
-<table class="tg"><thead>
+<table class="tg">
+  <!-- column widths -->
+  <colgroup>
+    <col> <col> <col>
+  </colgroup>
+<thead>
   <tr>
     <th class="tg-fymr" colspan="3">Friday</th>
   </tr></thead>
