@@ -12,7 +12,6 @@ top_image_alt: "Montréal, Canada"
 
 ### Program Schedule
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,31 +26,22 @@ top_image_alt: "Montréal, Canada"
 .tg .tg-pidv{background-color:#ffce93;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-x6qq{background-color:#dae8fc;border-color:inherit;text-align:left;vertical-align:top}
 </style>
+
+#### Wednesday
+<details open>
+<summary>Click to expand/collapse</summary>
+
 <table class="tg"><thead>
   <tr>
-    <th class="tg-fymr" colspan="3">Wednesday </th>
-    <th class="tg-fymr" colspan="3">Thursday  </th>
-    <th class="tg-fymr" colspan="3">Friday </th>
+    <th class="tg-fymr" colspan="3">Wednesday</th>
   </tr></thead>
 <tbody>
   <tr>
     <td class="tg-61xu">Speaker 1</td>
     <td class="tg-61xu">9:00 - 10:00</td>
-    <td class="tg-61xu">Bastian Rieck</td>
-    <td class="tg-61xu">Speaker 1</td>
-    <td class="tg-61xu">9:00 - 10:00</td>
-    <td class="tg-61xu">Mathilde Papillon</td>
-    <td class="tg-61xu">Speaker 1</td>
-    <td class="tg-61xu">9:00 - 10:00</td>
-    <td class="tg-61xu">Dhananjay Bhaskar</td>
+    <td class="tg-61xu">Bastian Rieck: Shapes, Spaces, Simplices, and Structure: Geometry, Topology, and Machine Learning</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Break</td>
-    <td class="tg-0pky">10:00-10:20</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Break</td>
-    <td class="tg-0pky">10:00-10:15</td>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky">Break</td>
     <td class="tg-0pky">10:00-10:20</td>
     <td class="tg-0pky"></td>
@@ -59,54 +49,24 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-7od5">Oral A1</td>
     <td class="tg-7od5">10:15-10:35</td>
-    <td class="tg-7od5"></td>
-    <td class="tg-7od5">Oral C1</td>
-    <td class="tg-7od5">10:15-10:35</td>
-    <td class="tg-7od5"></td>
-    <td class="tg-7od5">Oral D1</td>
-    <td class="tg-7od5">10:15-10:35</td>
-    <td class="tg-7od5"></td>
+    <td class="tg-7od5">Tenorio et al.: Tracking Network Dynamics using Probabilistic State-Space Models</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral A2</td>
     <td class="tg-7od5">10:35-10:55</td>
-    <td class="tg-7od5"></td>
-    <td class="tg-7od5">Oral C2</td>
-    <td class="tg-7od5">10:35-10:55</td>
-    <td class="tg-7od5"></td>
-    <td class="tg-7od5">Oral D2</td>
-    <td class="tg-7od5">10:35-10:55</td>
-    <td class="tg-7od5"></td>
+    <td class="tg-7od5">Misiakos & Püschel: Learning Graphs from Structural Vector Autoregressions with Sparse Input</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral A3</td>
     <td class="tg-7od5">10:55-11:15</td>
-    <td class="tg-7od5"></td>
-    <td class="tg-7od5">Oral C3</td>
-    <td class="tg-7od5">10:55-11:15</td>
-    <td class="tg-7od5"></td>
-    <td class="tg-7od5">Oral D3</td>
-    <td class="tg-7od5">10:55-11:15</td>
-    <td class="tg-7od5"></td>
+    <td class="tg-7od5">Vlas et al.:Online Network Inference from Graph-Stationary Signals with Hidden Nodes</td>
   </tr>
   <tr>
     <td class="tg-61xu">Speaker 2</td>
     <td class="tg-61xu">11:30-12:30</td>
-    <td class="tg-61xu">Reihaneh Rabbany</td>
-    <td class="tg-0pky">Lunch</td>
-    <td class="tg-0pky">11:15-13:00</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-61xu">Speaker 2</td>
-    <td class="tg-61xu">11:30-12:30</td>
-    <td class="tg-61xu">Naoki Saito</td>
+    <td class="tg-61xu">Reihaneh Rabbany: Benchmarks and Evaluation in Temporal Graph Learning</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Lunch</td>
-    <td class="tg-0pky">12:30-14:00</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-61xu">Speaker 2</td>
-    <td class="tg-61xu">13:00-14:00</td>
-    <td class="tg-61xu">Melanie Weber</td>
     <td class="tg-0pky">Lunch</td>
     <td class="tg-0pky">12:30-14:00</td>
     <td class="tg-0pky"></td>
@@ -114,81 +74,179 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-7od5">Oral B1</td>
     <td class="tg-7od5">14:00-14:20</td>
-    <td class="tg-7od5"></td>
-    <td class="tg-90e1">Poster Session 2</td>
-    <td class="tg-90e1">14:00-15:00</td>
-    <td class="tg-90e1"></td>
-    <td class="tg-pidv">TMLR 1</td>
-    <td class="tg-pidv">14:00-14:20</td>
-    <td class="tg-pidv"></td>
+    <td class="tg-7od5">Holden & Ruiz: Leveraging Line Graph Representations to Improve GNN Convergence Rates</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral B2</td>
     <td class="tg-7od5">14:20-14:40</td>
-    <td class="tg-7od5"></td>
-    <td class="tg-x6qq">Travel to Excursion</td>
-    <td class="tg-x6qq">15:00 - 16:00</td>
-    <td class="tg-x6qq"></td>
-    <td class="tg-pidv">TMLR 2</td>
-    <td class="tg-pidv">14:20-14:40</td>
-    <td class="tg-pidv"></td>
+    <td class="tg-7od5">Bello et al.: HyperNATE: Scaling Tensor-Based Hypergraph Neural Networks Through Attention</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral B3</td>
     <td class="tg-7od5">14:40-15:00</td>
-    <td class="tg-7od5"></td>
-    <td class="tg-x6qq">Excursion </td>
-    <td class="tg-x6qq">16:00-19:00</td>
-    <td class="tg-x6qq"></td>
-    <td class="tg-pidv">TMLR 3</td>
-    <td class="tg-pidv">14:40-15:00</td>
-    <td class="tg-pidv"></td>
+    <td class="tg-7od5">Park et al.: FedBaF: Federated Learning Aggregation Biased by a Foundation Model</td>
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
     <td class="tg-0pky">15:00-15:15</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-pidv">TMLR 4</td>
-    <td class="tg-pidv">15:00-15:20</td>
-    <td class="tg-pidv"></td>
   </tr>
   <tr>
     <td class="tg-61xu">Speaker 3</td>
     <td class="tg-61xu">15:15-16:15</td>
-    <td class="tg-61xu">Danai Koutra</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Break</td>
-    <td class="tg-0pky">15:20-15:30</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-61xu">Danai Koutra: Not all Neighbors Agree: Graph Learning Beyond Homophily</td>
   </tr>
   <tr>
     <td class="tg-90e1">Poster Session 1</td>
     <td class="tg-90e1">16:30-17:30</td>
     <td class="tg-90e1"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-61xu">Speaker 3</td>
-    <td class="tg-61xu">15:30-16:30</td>
-    <td class="tg-61xu">Dominique Beaini</td>
   </tr>
   <tr>
     <td class="tg-0pky">Dinner</td>
     <td class="tg-0pky">18:30-20:30</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
   </tr>
 </tbody></table>
+</details>
+
+#### Thursday
+<details open>
+<summary>Click to expand/collapse</summary>
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-fymr" colspan="3">Thursday</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-61xu">Speaker 1</td>
+    <td class="tg-61xu">9:00 - 10:00</td>
+    <td class="tg-61xu">Mathilde Papillon: Make Any Graph Neural Network Go Topological with TopoTune</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Break</td>
+    <td class="tg-0pky">10:00-10:15</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-7od5">Oral C1</td>
+    <td class="tg-7od5">10:15-10:35</td>
+    <td class="tg-7od5">Rhodes & Rustad: Multimodal Graphs for Diffusion-Based Manifold Alignment</td>
+  </tr>
+  <tr>
+    <td class="tg-7od5">Oral C2</td>
+    <td class="tg-7od5">10:35-10:55</td>
+    <td class="tg-7od5">Le et al.: Landmark-Based Node Embeddings and Graph Distance Approximations</td>
+  </tr>
+  <tr>
+    <td class="tg-7od5">Oral C3</td>
+    <td class="tg-7od5">10:55-11:15</td>
+    <td class="tg-7od5">Shen & Kolaczyk: Consistent Identification of Top-K Nodes in Noisy Networks</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Lunch</td>
+    <td class="tg-0pky">11:15-13:00</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-61xu">Speaker 2</td>
+    <td class="tg-61xu">13:00-14:00</td>
+    <td class="tg-61xu">Melanie Weber: A Geometric Lens on Challenges in Graph Machine Learning: Insights and Remedies</td>
+  </tr>
+  <tr>
+    <td class="tg-90e1">Poster Session 2</td>
+    <td class="tg-90e1">14:00-15:00</td>
+    <td class="tg-90e1"></td>
+  </tr>
+  <tr>
+    <td class="tg-x6qq">Travel to Excursion</td>
+    <td class="tg-x6qq">15:00 - 16:00</td>
+    <td class="tg-x6qq"></td>
+  </tr>
+  <tr>
+    <td class="tg-x6qq">Excursion</td>
+    <td class="tg-x6qq">16:00-19:00</td>
+    <td class="tg-x6qq"></td>
+  </tr>
+</tbody></table>
+</details>
+
+#### Friday
+<details open>
+<summary>Click to expand/collapse</summary>
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-fymr" colspan="3">Friday</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-61xu">Speaker 1</td>
+    <td class="tg-61xu">9:00 - 10:00</td>
+    <td class="tg-61xu">Dhananjay Bhaskar: Beyond Message Passing: Learning Representations from Dynamics on Graphs</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Break</td>
+    <td class="tg-0pky">10:00-10:20</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-7od5">Oral D1</td>
+    <td class="tg-7od5">10:15-10:35</td>
+    <td class="tg-7od5">Shi & Moura: Graph Signal Processing: Frequency Analysis for Similar Matrices</td>
+  </tr>
+  <tr>
+    <td class="tg-7od5">Oral D2</td>
+    <td class="tg-7od5">10:35-10:55</td>
+    <td class="tg-7od5">Do et al.: Interpretable Lightweight Transformer via Unrolling of Learned Graph Smoothness Priors</td>
+  </tr>
+  <tr>
+    <td class="tg-7od5">Oral D3</td>
+    <td class="tg-7od5">10:55-11:15</td>
+    <td class="tg-7od5">Mutnuri et al.: Causal Analysis of Graph Signals for Brain Effectome Inference</td>
+  </tr>
+  <tr>
+    <td class="tg-61xu">Speaker 2</td>
+    <td class="tg-61xu">11:30-12:30</td>
+    <td class="tg-61xu">Naoki Saito: Generalized Haar-Walsh Dictionaries: Extensions and Applications</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Lunch</td>
+    <td class="tg-0pky">12:30-14:00</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-pidv">TMLR 1</td>
+    <td class="tg-pidv">14:00-14:20</td>
+    <td class="tg-pidv">Skenderi et al.: Graph-level Representation Learning with Joint-Embedding Predictive Architectures</td>
+  </tr>
+  <tr>
+    <td class="tg-pidv">TMLR 2</td>
+    <td class="tg-pidv">14:20-14:40</td>
+    <td class="tg-pidv">Franks et al.: Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings</td>
+  </tr>
+  <tr>
+    <td class="tg-pidv">TMLR 3</td>
+    <td class="tg-pidv">14:40-15:00</td>
+    <td class="tg-pidv">Hu et al.: Sparse Decomposition of Graph Neural Networks</td>
+  </tr>
+  <tr>
+    <td class="tg-pidv">TMLR 4</td>
+    <td class="tg-pidv">15:00-15:20</td>
+    <td class="tg-pidv">Rumiantsev & Coates: Graph Knowledge Distillation to Mixture of Experts</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Break</td>
+    <td class="tg-0pky">15:20-15:30</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-61xu">Speaker 3</td>
+    <td class="tg-61xu">15:30-16:30</td>
+    <td class="tg-61xu">Dominique Beaini: How to Learn Molecules</td>
+  </tr>
+</tbody></table>
+</details>
 
 ---
 
