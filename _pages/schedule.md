@@ -13,7 +13,7 @@ top_image_alt: "Montréal, Canada"
 ### Program Schedule
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border-collapse:collapse;border-spacing:0;table-layout:fixed;width:100%;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -25,10 +25,10 @@ top_image_alt: "Montréal, Canada"
 .tg .tg-90e1{background-color:#ffccc9;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-pidv{background-color:#ffce93;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-x6qq{background-color:#dae8fc;border-color:inherit;text-align:left;vertical-align:top}
-/* Add column width specifications */
-.tg td:first-child {width: 15%;} /* First column (Session/Time) */
-.tg td:nth-child(2) {width: 15%;} /* Second column (Time) */
-.tg td:nth-child(3) {width: 70%;} /* Third column (Title) */
+/* Column width specifications */
+.tg td:nth-of-type(1) {width: 15%;} /* First column (Session/Time) */
+.tg td:nth-of-type(2) {width: 15%;} /* Second column (Time) */
+.tg td:nth-of-type(3) {width: 70%;} /* Third column (Title) */
 </style>
 
 
