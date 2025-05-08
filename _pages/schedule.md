@@ -264,11 +264,11 @@ In this talk, I will present our recent advances in understanding and improving 
 ##### **Friday Speaker 1, 9:00 - 10:00**
 [**Dhananjay Bhaskar**](https://dbhaskar92.github.io), Yale University
 
-**Title:** TBD
+**Title:** Beyond Message Passing: Learning Representations from Dynamics on Graphs
 
-**Abstract:** TBD
+**Abstract:** This talk introduces two complementary frameworks that harness geometric and topological structure in dynamics on graphs for representation learning. I will first introduce Neurospectrum, a modular architecture that models brain activity as graph signals and learns latent neural trajectories shaped by multiscale spatial and temporal structure. By extracting geometric and topological invariants of these naturally occurring dynamics, such as curvature, path signatures, persistent homology, and recurrent dynamics, Neurospectrum reveals interpretable patterns in brain function, offering insights into neural synchrony, coordination, sensory processing, and aberrant dynamics associated with psychiatric disorders like OCD. Building on the idea of using dynamical behavior to reveal structure, I will next introduce DYMAG, a novel graph neural network that replaces traditional message passing with solutions to heat, wave, and chaotic partial differential equations defined over graphs. By treating graphs as continuous dynamical systems, DYMAG captures intrinsic geometric and topological features of the graph, enabling richer node and graph-level representations that improve performance on various benchmarks.
 
-**Bio:** TBD
+**Bio:** Dhananjay Bhaskar is a postdoctoral researcher at Yale University and visiting scholar at Brown Engineering, where he develops machine learning methods grounded in principles of geometry, topology, and biology to study complex systems, from molecular interactions to brain activity. He received his Ph.D. in Biomedical Engineering and M.S. in Data Science from Brown University, and his B.Sc. in Computer Science and Mathematics from the University of British Columbia. He is a recipient of the Boehringer Ingelheim Data Science Fellowship, Kavli Neuroscience Postdoctoral Fellowship, and DAAD Fellowship for Generative Models, and has been recognized by the Yale Postdoctoral Association for initiatives to advance professional development and interdisciplinary dialogue.
 
 <p id="Naoki Saito"></p>
 
