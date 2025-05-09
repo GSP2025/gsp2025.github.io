@@ -30,6 +30,7 @@ top_image_alt: "Montréal, Canada"
 .tg .tg-pidv{background-color:#ffce93;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-x6qq{background-color:#dae8fc;border-color:inherit;text-align:left;vertical-align:top}
 
+.tg td strong, .tg th strong {color: inherit;}
 </style>
 
 
@@ -50,7 +51,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 1</td>
     <td class="tg-61xu">9:00 - 10:00</td>
-    <td class="tg-61xu">**Bastian Rieck** (test): Shapes, Spaces, Simplices, and Structure: Geometry, Topology, and Machine Learning</td>
+    <td class="tg-61xu"><strong>Bastian Rieck</strong>: Shapes, Spaces, Simplices, and Structure: Geometry, Topology, and Machine Learning</td>
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
