@@ -71,7 +71,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-7od5">Oral A3</td>
     <td class="tg-7od5">10:55-11:15</td>
-    <td class="tg-7od5"><strong>Vlas et al.</strong>:Online Network Inference from Graph-Stationary Signals with Hidden Nodes</td>
+    <td class="tg-7od5"><strong>Vlas et al.</strong>: Online Network Inference from Graph-Stationary Signals with Hidden Nodes</td>
   </tr>
   <tr>
     <td class="tg-61xu">Speaker 2</td>
