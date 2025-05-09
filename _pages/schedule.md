@@ -50,7 +50,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 1</td>
     <td class="tg-61xu">9:00 - 10:00</td>
-    <td class="tg-61xu"><b>Bastian Rieck</b>: Shapes, Spaces, Simplices, and Structure: Geometry, Topology, and Machine Learning</td>
+    <td class="tg-61xu"><strong>Bastian Rieck</strong>: Shapes, Spaces, Simplices, and Structure: Geometry, Topology, and Machine Learning</td>
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
