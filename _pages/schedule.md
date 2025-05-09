@@ -178,7 +178,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-x6qq">Travel to Excursion</td>
     <td class="tg-x6qq">15:00 - 16:00</td>
-    <td class="tg-x6qq"></td>
+    <td class="tg-x6qq"> NOTE: We will meet in front of Mila (between the two buildings) </td>
   </tr>
   <tr>
     <td class="tg-x6qq">Excursion</td>
