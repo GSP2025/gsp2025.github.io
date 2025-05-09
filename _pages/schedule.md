@@ -61,22 +61,22 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-7od5">Oral A1</td>
     <td class="tg-7od5">10:15-10:35</td>
-    <td class="tg-7od5">Tenorio et al.: Tracking Network Dynamics using Probabilistic State-Space Models</td>
+    <td class="tg-7od5"><strong>Tenorio et al.</strong>: Tracking Network Dynamics using Probabilistic State-Space Models</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral A2</td>
     <td class="tg-7od5">10:35-10:55</td>
-    <td class="tg-7od5">Misiakos & Püschel: Learning Graphs from Structural Vector Autoregressions with Sparse Input</td>
+    <td class="tg-7od5"><strong>Misiakos & Püschel</strong>: Learning Graphs from Structural Vector Autoregressions with Sparse Input</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral A3</td>
     <td class="tg-7od5">10:55-11:15</td>
-    <td class="tg-7od5">Vlas et al.:Online Network Inference from Graph-Stationary Signals with Hidden Nodes</td>
+    <td class="tg-7od5"><strong>Vlas et al.</strong>:Online Network Inference from Graph-Stationary Signals with Hidden Nodes</td>
   </tr>
   <tr>
     <td class="tg-61xu">Speaker 2</td>
     <td class="tg-61xu">11:30-12:30</td>
-    <td class="tg-61xu">Reihaneh Rabbany: Benchmarks and Evaluation in Temporal Graph Learning</td>
+    <td class="tg-61xu"><strong>Reihaneh Rabbany</strong>: Benchmarks and Evaluation in Temporal Graph Learning</td>
   </tr>
   <tr>
     <td class="tg-0pky">Lunch</td>
@@ -86,17 +86,17 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-7od5">Oral B1</td>
     <td class="tg-7od5">14:00-14:20</td>
-    <td class="tg-7od5">Holden & Ruiz: Leveraging Line Graph Representations to Improve GNN Convergence Rates</td>
+    <td class="tg-7od5"><strong>Holden & Ruiz</strong>: Leveraging Line Graph Representations to Improve GNN Convergence Rates</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral B2</td>
     <td class="tg-7od5">14:20-14:40</td>
-    <td class="tg-7od5">Bello et al.: HyperNATE: Scaling Tensor-Based Hypergraph Neural Networks Through Attention</td>
+    <td class="tg-7od5"><strong>Bello et al.</strong>: HyperNATE: Scaling Tensor-Based Hypergraph Neural Networks Through Attention</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral B3</td>
     <td class="tg-7od5">14:40-15:00</td>
-    <td class="tg-7od5">Park et al.: FedBaF: Federated Learning Aggregation Biased by a Foundation Model</td>
+    <td class="tg-7od5"><strong>Park et al.</strong>: FedBaF: Federated Learning Aggregation Biased by a Foundation Model</td>
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
@@ -106,7 +106,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 3</td>
     <td class="tg-61xu">15:15-16:15</td>
-    <td class="tg-61xu">Danai Koutra: Not all Neighbors Agree: Graph Learning Beyond Homophily</td>
+    <td class="tg-61xu"><strong>Danai Koutra</strong>: Not all Neighbors Agree: Graph Learning Beyond Homophily</td>
   </tr>
   <tr>
     <td class="tg-90e1">Poster Session 1</td>
@@ -139,7 +139,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 1</td>
     <td class="tg-61xu">9:00 - 10:00</td>
-    <td class="tg-61xu">Mathilde Papillon: Make Any Graph Neural Network Go Topological with TopoTune</td>
+    <td class="tg-61xu"><strong>Mathilde Papillon</strong>: Make Any Graph Neural Network Go Topological with TopoTune</td>
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
@@ -149,17 +149,17 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-7od5">Oral C1</td>
     <td class="tg-7od5">10:15-10:35</td>
-    <td class="tg-7od5">Rhodes & Rustad: Multimodal Graphs for Diffusion-Based Manifold Alignment</td>
+    <td class="tg-7od5"><strong>Rhodes & Rustad</strong>: Multimodal Graphs for Diffusion-Based Manifold Alignment</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral C2</td>
     <td class="tg-7od5">10:35-10:55</td>
-    <td class="tg-7od5">Le et al.: Landmark-Based Node Embeddings and Graph Distance Approximations</td>
+    <td class="tg-7od5"><strong>Le et al.</strong>: Landmark-Based Node Embeddings and Graph Distance Approximations</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral C3</td>
     <td class="tg-7od5">10:55-11:15</td>
-    <td class="tg-7od5">Shen & Kolaczyk: Consistent Identification of Top-K Nodes in Noisy Networks</td>
+    <td class="tg-7od5"><strong>Shen & Kolaczyk</strong>: Consistent Identification of Top-K Nodes in Noisy Networks</td>
   </tr>
   <tr>
     <td class="tg-0pky">Lunch</td>
@@ -169,7 +169,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 2</td>
     <td class="tg-61xu">13:00-14:00</td>
-    <td class="tg-61xu">Melanie Weber: A Geometric Lens on Challenges in Graph Machine Learning: Insights and Remedies</td>
+    <td class="tg-61xu"><strong>Melanie Weber</strong>: A Geometric Lens on Challenges in Graph Machine Learning: Insights and Remedies</td>
   </tr>
   <tr>
     <td class="tg-90e1">Poster Session 2</td>
@@ -207,7 +207,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 1</td>
     <td class="tg-61xu">9:00 - 10:00</td>
-    <td class="tg-61xu">Dhananjay Bhaskar: Beyond Message Passing: Learning Representations from Dynamics on Graphs</td>
+    <td class="tg-61xu"><strong>Dhananjay Bhaskar</strong>: Beyond Message Passing: Learning Representations from Dynamics on Graphs</td>
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
@@ -217,22 +217,22 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-7od5">Oral D1</td>
     <td class="tg-7od5">10:15-10:35</td>
-    <td class="tg-7od5">Shi & Moura: Graph Signal Processing: Frequency Analysis for Similar Matrices</td>
+    <td class="tg-7od5"><strong>Shi & Moura</strong>: Graph Signal Processing: Frequency Analysis for Similar Matrices</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral D2</td>
     <td class="tg-7od5">10:35-10:55</td>
-    <td class="tg-7od5">Do et al.: Interpretable Lightweight Transformer via Unrolling of Learned Graph Smoothness Priors</td>
+    <td class="tg-7od5"><strong>Do et al.</strong>: Interpretable Lightweight Transformer via Unrolling of Learned Graph Smoothness Priors</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral D3</td>
     <td class="tg-7od5">10:55-11:15</td>
-    <td class="tg-7od5">Mutnuri et al.: Causal Analysis of Graph Signals for Brain Effectome Inference</td>
+    <td class="tg-7od5"><strong>Mutnuri et al.</strong>: Causal Analysis of Graph Signals for Brain Effectome Inference</td>
   </tr>
   <tr>
     <td class="tg-61xu">Speaker 2</td>
     <td class="tg-61xu">11:30-12:30</td>
-    <td class="tg-61xu">Naoki Saito: Generalized Haar-Walsh Dictionaries: Extensions and Applications</td>
+    <td class="tg-61xu"><strong>Naoki Saito</strong>: Generalized Haar-Walsh Dictionaries: Extensions and Applications</td>
   </tr>
   <tr>
     <td class="tg-0pky">Lunch</td>
@@ -242,22 +242,22 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-pidv">TMLR 1</td>
     <td class="tg-pidv">14:00-14:20</td>
-    <td class="tg-pidv">Skenderi et al.: Graph-level Representation Learning with Joint-Embedding Predictive Architectures</td>
+    <td class="tg-pidv"><strong>Skenderi et al.</strong>: Graph-level Representation Learning with Joint-Embedding Predictive Architectures</td>
   </tr>
   <tr>
     <td class="tg-pidv">TMLR 2</td>
     <td class="tg-pidv">14:20-14:40</td>
-    <td class="tg-pidv">Franks et al.: Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings</td>
+    <td class="tg-pidv"><strong>Franks et al.</strong>: Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings</td>
   </tr>
   <tr>
     <td class="tg-pidv">TMLR 3</td>
     <td class="tg-pidv">14:40-15:00</td>
-    <td class="tg-pidv">Hu et al.: Sparse Decomposition of Graph Neural Networks</td>
+    <td class="tg-pidv"><strong>Hu et al.</strong>: Sparse Decomposition of Graph Neural Networks</td>
   </tr>
   <tr>
     <td class="tg-pidv">TMLR 4</td>
     <td class="tg-pidv">15:00-15:20</td>
-    <td class="tg-pidv">Rumiantsev & Coates: Graph Knowledge Distillation to Mixture of Experts</td>
+    <td class="tg-pidv"><strong>Rumiantsev & Coates</strong>: Graph Knowledge Distillation to Mixture of Experts</td>
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
@@ -267,7 +267,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 3</td>
     <td class="tg-61xu">15:30-16:30</td>
-    <td class="tg-61xu">Dominique Beaini: How to Learn Molecules</td>
+    <td class="tg-61xu"><strong>Dominique Beaini</strong>: How to Learn Molecules</td>
   </tr>
 </tbody></table>
 </details>
