@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 0
 
-top_image: /assets/img/gsp25/mtl_logo.png
+top_image: /assets/img/gsp25/mtl_logo_with_QR.png
 top_image_alt: "Montréal, Canada"
 ---
 
