@@ -752,6 +752,11 @@ In this talk, I will present our recent advances in understanding and improving 
     <td class="tg-7zrl">Adrien Weihs (University of California Los Angeles)*</td>
     <td class="tg-0lax">We propose a higher-order hypergraph method for semi-supervised learning on point clouds. This is motivated by the fact that the classical hypergraph learning algorithm is asymptotically equivalent to p-Laplace Learning on graphs. Our new framework includes additional hypergraph geometric information by penalizing higher-order derivatives on hyperedges. We also preserve the quadratic form structure of Laplace Learning which greatly simplifies numerical implementations and we can reduce computational complexity through spectral truncation. In addition, this allows us to formulate the learning problem in the Bayesian setting. We present numerical results demonstrating the effectiveness of our methodology compared to other graph-based semi-supervised learning methods. </td>
   </tr>
+  <tr>
+    <td class="tg-j58y">Tensor Organization and Paraproduct Decompositions with Graphs</td>
+    <td class="tg-j58y">Oluwadamilola Fasina (Yale University), Smita Krishnaswamy (Yale University), Ronald R. Coifman (Yale University)</td>
+    <td class="tg-buh4">We demonstrate tensor organizations and paraproduct decompositions with graphs have a variety of applications for graph signal processing tasks. Such techniques are intertwined and have a diverse range of use-cases such as graph construction, alleviating common learning bottlenecks, and extracting salient tensor structure. Specifically, we utilize these techniques for (i) graph building for the kernel of an integral operator and the gaussian heat kernel, (ii) formulating the paraproduct decomposition on a tree (iii) investigating network sparsity (iv) demonstrating invariance of the attention mechanism to softmax activation.</td>
+  </tr>
 </tbody>
 </table>
 
