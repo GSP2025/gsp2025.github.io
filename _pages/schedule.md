@@ -51,7 +51,8 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 1</td>
     <td class="tg-61xu">9:00 - 10:00</td>
-    <td class="tg-61xu"><strong>Bastian Rieck</strong>: Shapes, Spaces, Simplices, and Structure: Geometry, Topology, and Machine Learning</td>
+    <td class="tg-61xu"><strong>Mathilde Papillon</strong>: Make Any Graph Neural Network Go Topological with TopoTune</td>
+    
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
@@ -139,7 +140,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 1</td>
     <td class="tg-61xu">9:00 - 10:00</td>
-    <td class="tg-61xu"><strong>Mathilde Papillon</strong>: Make Any Graph Neural Network Go Topological with TopoTune</td>
+    <td class="tg-61xu"><strong>Melanie Weber</strong>: A Geometric Lens on Challenges in Graph Machine Learning: Insights and Remedies</td>
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
@@ -169,7 +170,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 2</td>
     <td class="tg-61xu">13:00-14:00</td>
-    <td class="tg-61xu"><strong>Melanie Weber</strong>: A Geometric Lens on Challenges in Graph Machine Learning: Insights and Remedies</td>
+    <td class="tg-61xu"><strong>TBD</strong>: TBD</td>
   </tr>
   <tr>
     <td class="tg-90e1">Poster Session 2</td>
