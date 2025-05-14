@@ -111,7 +111,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 3</td>
     <td class="tg-61xu">15:15-16:15</td>
-    <td class="tg-61xu"><strong>Antonio G. Marques</strong></td>
+    <td class="tg-61xu"><strong>Antonio G. Marques</strong>: Beyond Graphical Lasso: Learning graphs from nodal signals</td>
   </tr>
   <tr>
     <td class="tg-90e1">Poster Session 1</td>
@@ -323,9 +323,7 @@ In this talk, I will present our recent advances in understanding and improving 
 ##### **Wednesday Speaker 3, 15:15 - 16:15**
 [**Antonio G. Marques**](https://www.tsc.urjc.es/~amarques/), King Juan Carlos University
 
-**Title:** TBD
-
-**Abstract:** TBD
+**Title:** Beyond Graphical Lasso: Learning graphs from nodal signals
 
 **Bio:** Antonio G. Marques is a Professor at the Department of Signal Theory and Communications, King Juan Carlos University, Madrid, Spain. At the core of his research lies the application of (stochastic) signal processing, machine learning, and non-linear optimization (especially duality theory and dynamic programming). 
 
