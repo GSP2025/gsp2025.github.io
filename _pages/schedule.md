@@ -285,16 +285,16 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 ### Talks
 
-<p id="Bastian Rieck"></p>
+<p id="Mathilde Papillon"></p>
 
 ##### **Wednesday Speaker 1, 9:00 - 10:00**
-[**Bastian Grossenbacher Rieck**](https://bastian.rieck.me), University of Fribourg
+[**Mathilde Papillon**](https://www.mathildep.ca), UC Santa Barbara
 
-**Title:** Shapes, Spaces, Simplices, and Structure: Geometry, Topology, and Machine Learning
+**Title:** Make Any Graph Neural Network Go Topological with TopoTune
 
-**Abstract:**  large driver contributing to the undeniable success of deep-learning models is their ability to synthesise task-specific features from data. For a long time, the predominant belief was that 'given enough data, all features can be learned.' However, as large language models are hitting diminishing returns in output quality while requiring an ever-increasing amount of training data and compute, new approaches are required. One promising avenue involves focusing more on aspects of modelling, which involves the development of novel inductive biases such as invariances that cannot be readily gleaned from the data. This approach is particularly useful for data sets that model real-world phenomena, as well as applications where data availability is scarce. Given their dual nature, geometry and topology provide a rich source of potential inductive biases. In this talk, I will present novel advances in harnessing multi-scale geometrical-topological characteristics of data. A special focus will be given to show how geometry and topology can improve representation learning tasks. Underscoring the generality of a hybrid geometrical-topological perspective, I will furthermore showcase applications from a diverse set of data domains, including point clouds, graphs, and higher-order combinatorial complexes.
+**Abstract:** Graph Neural Networks (GNNs) excel in learning from relational datasets, processing node and edge features in a way that preserves the symmetries of the graph domain. However, many complex systems--such as biological or social networks--involve multiway complex interactions that go beyond the graph's pairwise relationships. The emerging field of Topological Deep Learning (TDL) aims to accommodate and leverage these higher-order structures. However, differently from the graph deep learning ecosystem, TDL lacks a standardized framework for easily defining new architectures, restricting its accessibility and applicability. In this talk, I will introduce TopoTune, a lightweight software that allows practitioners to define, build, and train general TDL models with unprecedented ease. Theoretical results show that TopoTune's models generalize and subsume the current landscape of TDL models. Extensive experiments show that these architectures consistently match or outperform previous models, often with less model complexity.
 
-**Bio:** Bastian Rieck is a Full Professor of Machine Learning at the University of Fribourg in Switzerland and the Principal Investigator of the AIDOS Lab, which focuses on developing novel machine learning methods driven by geometry and topology. His research has received multiple awards, including an ERC Starting Grant. Dr. Rieck is also a member of ELLIS, the European Laboratory for Learning and Intelligent Systems, and AI-LIFE, the International Network of Artificial Intelligence for the Life Sciences. Moreover, Dr. Rieck serves as the director of AATRN, the Applied Algebraic Topology Research Network. He received his M.Sc. degree in mathematics, as well as his Ph.D. in computer science, from Heidelberg University in Germany, graduating both times with distinction.
+**Bio:** Mathilde Papillon is a Physics PhD candidate in the Geometric Intelligence Lab at the University of California Santa Barbara where she develops novel deep learning methods leveraging geometry and topology. She harnesses these models to study relational data, with a special focus on full-body human movement. Mathilde obtained her BSc in Honours Physics from McGill University and was recently awarded Canada's Post Graduate Doctoral Fellowship.
 
 <p id="Reihaneh Rabbany"></p>
 
@@ -320,20 +320,9 @@ In this talk, I will present our recent advances in understanding and improving 
 
 **Bio:** Danai Koutra is an Associate Professor of Computer Science and Engineering at the University of Michigan and an Amazon Scholar. Her research interests include graph mining and learning, graph–LLM joint models, and graph summarization. Her work has been applied to social, collaboration, and web networks, as well as brain connectivity graphs. Danai has won the Presidential Early Career Award for Scientists and Engineers (PECASE), the 2024 IBM Early Career Data Mining Research Award, the 2023 Tao Li Award, an NSF CAREER Award, an ARO Young Investigator Award, the 2020 SIGKDD Rising Star Award, multiple industry-sponsored research faculty awards, a Precision Health Investigator Award, and the 2016 ACM SIGKDD Dissertation Award. She has also received nine paper awards and the 2022 IEEE ICDM Test-of-Time Award. In terms of service, she is currently Program Chair for the IJCAI 2025 Survey Track and has previously served as Program Chair for ACM SIGKDD, ECML/PKDD, and The Web Conference (track chair).
 
-<p id="Mathilde Papillon"></p>
-
-##### **Thursday Speaker 1, 9:00 - 10:00**
-[**Mathilde Papillon**](https://www.mathildep.ca), UC Santa Barbara
-
-**Title:** Make Any Graph Neural Network Go Topological with TopoTune
-
-**Abstract:** Graph Neural Networks (GNNs) excel in learning from relational datasets, processing node and edge features in a way that preserves the symmetries of the graph domain. However, many complex systems--such as biological or social networks--involve multiway complex interactions that go beyond the graph's pairwise relationships. The emerging field of Topological Deep Learning (TDL) aims to accommodate and leverage these higher-order structures. However, differently from the graph deep learning ecosystem, TDL lacks a standardized framework for easily defining new architectures, restricting its accessibility and applicability. In this talk, I will introduce TopoTune, a lightweight software that allows practitioners to define, build, and train general TDL models with unprecedented ease. Theoretical results show that TopoTune's models generalize and subsume the current landscape of TDL models. Extensive experiments show that these architectures consistently match or outperform previous models, often with less model complexity.
-
-**Bio:** Mathilde Papillon is a Physics PhD candidate in the Geometric Intelligence Lab at the University of California Santa Barbara where she develops novel deep learning methods leveraging geometry and topology. She harnesses these models to study relational data, with a special focus on full-body human movement. Mathilde obtained her BSc in Honours Physics from McGill University and was recently awarded Canada's Post Graduate Doctoral Fellowship.
-
 <p id="Melanie Weber"></p>
 
-##### **Thursday Speaker 2, 13:00 - 14:00**
+##### **Thursday Speaker 1, 9:00 - 10:00**
 [**Melanie Weber**](https://melanie-weber.com), Harvard University
 
 **Title:** A Geometric Lens on Challenges in Graph Machine Learning: Insights and Remedies
@@ -341,6 +330,12 @@ In this talk, I will present our recent advances in understanding and improving 
 **Abstract:** Graph Neural Networks (GNNs) are a popular architecture for learning on graphs. While they achieved notable success in areas such as biochemistry, drug discovery, and material sciences, GNNs are not without challenges: Deeper GNNs exhibit instability due to the convergence of node representations (oversmoothing), which can reduce their effectiveness in learning long-range dependencies that are often crucial in applications. In addition, GNNs have limited expressivity in that there are fundamental function classes that they cannot learn. In this talk we will discuss both challenges from a geometric perspective. We propose and study unitary graph convolutions, which allow for deeper networks that provably avoid oversmoothing during training. Our experimental results confirm that Unitary GNNs achieve competitive performance on benchmark datasets. An effective remedy for limited expressivity are encodings, which augment the input graph with additional structural information. We propose novel encodings based on discrete Ricci curvature, which lead to significant gains in empirical performance and expressivity thanks to capturing higher-order relational information. We then consider the more general question of how higher-order relational information can be leveraged most effectively in graph learning. We propose a set of encodings that are computed on a hypergraph parametrization of the input graph and provide theoretical and empirical evidence for their effectiveness.
 
 **Bio:** Melanie Weber is an Assistant Professor of Applied Mathematics and of Computer Science at Harvard University, where she leads the Geometric Machine Learning Group. Her research studies geometric structure in data and how to leverage such information for the design of new, efficient Machine Learning algorithms with provable guarantees. In 2021-2022, she was a Hooke Research Fellow at the Mathematical Institute in Oxford. Previously, she received her PhD from Princeton University (2021). She is a recipient of the IMA Leslie Fox Prize in Numerical Analysis and a Sloan Research Fellowship in Mathematics.
+
+<p id="Bastian Rieck"></p>
+
+##### **Thursday Speaker 2, 13:00 - 14:00**
+
+**TBD**
 
 <p id="Dhananjay Bhaskar"></p>
 
