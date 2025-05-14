@@ -52,7 +52,6 @@ top_image_alt: "Montréal, Canada"
     <td class="tg-61xu">Speaker 1</td>
     <td class="tg-61xu">9:00 - 10:00</td>
     <td class="tg-61xu"><strong>Mathilde Papillon</strong>: Make Any Graph Neural Network Go Topological with TopoTune</td>
-    
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
@@ -61,23 +60,28 @@ top_image_alt: "Montréal, Canada"
   </tr>
   <tr>
     <td class="tg-7od5">Oral A1</td>
-    <td class="tg-7od5">10:15-10:35</td>
+    <td class="tg-7od5">10:20-10:40</td>
     <td class="tg-7od5"><strong>Tenorio et al.</strong>: Tracking Network Dynamics using Probabilistic State-Space Models</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral A2</td>
-    <td class="tg-7od5">10:35-10:55</td>
+    <td class="tg-7od5">10:40-11:00</td>
     <td class="tg-7od5"><strong>Misiakos & Püschel</strong>: Learning Graphs from Structural Vector Autoregressions with Sparse Input</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral A3</td>
-    <td class="tg-7od5">10:55-11:15</td>
+    <td class="tg-7od5">11:00-11:20</td>
     <td class="tg-7od5"><strong>Vlas et al.</strong>: Online Network Inference from Graph-Stationary Signals with Hidden Nodes</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Break</td>
+    <td class="tg-0pky">11:20-11:30</td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-61xu">Speaker 2</td>
     <td class="tg-61xu">11:30-12:30</td>
-    <td class="tg-61xu"><strong>Reihaneh Rabbany</strong>: Benchmarks and Evaluation in Temporal Graph Learning</td>
+    <td class="tg-61xu"><strong>Danai Koutra</strong>: Not all Neighbors Agree: Graph Learning Beyond Homophily</td>
   </tr>
   <tr>
     <td class="tg-0pky">Lunch</td>
@@ -107,7 +111,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 3</td>
     <td class="tg-61xu">15:15-16:15</td>
-    <td class="tg-61xu"><strong>Danai Koutra</strong>: Not all Neighbors Agree: Graph Learning Beyond Homophily</td>
+    <td class="tg-61xu"><strong>Antonio G. Marques</strong></td>
   </tr>
   <tr>
     <td class="tg-90e1">Poster Session 1</td>
@@ -217,18 +221,23 @@ top_image_alt: "Montréal, Canada"
   </tr>
   <tr>
     <td class="tg-7od5">Oral D1</td>
-    <td class="tg-7od5">10:15-10:35</td>
+    <td class="tg-7od5">10:20-10:40</td>
     <td class="tg-7od5"><strong>Shi & Moura</strong>: Graph Signal Processing: Frequency Analysis for Similar Matrices</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral D2</td>
-    <td class="tg-7od5">10:35-10:55</td>
+    <td class="tg-7od5">10:40-11:00</td>
     <td class="tg-7od5"><strong>Do et al.</strong>: Interpretable Lightweight Transformer via Unrolling of Learned Graph Smoothness Priors</td>
   </tr>
   <tr>
     <td class="tg-7od5">Oral D3</td>
-    <td class="tg-7od5">10:55-11:15</td>
+    <td class="tg-7od5">11:00-11:20</td>
     <td class="tg-7od5"><strong>Mutnuri et al.</strong>: Causal Analysis of Graph Signals for Brain Effectome Inference</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">Break</td>
+    <td class="tg-0pky">11:20-11:30</td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-61xu">Speaker 2</td>
@@ -296,20 +305,9 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 
 **Bio:** Mathilde Papillon is a Physics PhD candidate in the Geometric Intelligence Lab at the University of California Santa Barbara where she develops novel deep learning methods leveraging geometry and topology. She harnesses these models to study relational data, with a special focus on full-body human movement. Mathilde obtained her BSc in Honours Physics from McGill University and was recently awarded Canada's Post Graduate Doctoral Fellowship.
 
-<p id="Reihaneh Rabbany"></p>
-
-##### **Wednesday Speaker 2, 11:30 - 12:30**
-[**Reihaneh Rabbany**](http://www.reirab.com), McGill University, Mila -- Quebec AI Institute
-
-**Title:** Benchmarks and Evaluation in Temporal Graph Learning
-
-**Abstract:** Learning from time-evolving graphs is crucial for understanding many real-world systems. However, effectively evaluating machine learning methods on temporal graphs presents significant challenges, including the lack of large, diverse datasets and inconsistencies in evaluation protocols. This talk will discuss novel benchmarks and evaluation strategies to address these challenges. First, we introduce new evaluation procedures and datasets for dynamic link prediction, focusing on more realistic negative sampling strategies and the importance of diverse data domains. Second, we present the Temporal Graph Benchmark (TGB), a collection of large-scale datasets and evaluation pipelines for temporal graph learning, covering both edge and node-level prediction tasks. Finally, we introduce TGB 2.0, which expands TGB to multi-relational temporal graphs, providing new benchmarks and evaluation protocols for temporal knowledge graphs and heterogeneous graphs. Through these benchmarks and evaluations, we aim to foster more rigorous and realistic assessments of temporal graph learning methods, ultimately driving advancements in the field.
-
-**Bio:** Reihaneh Rabbany is a Canada CIFAR AI Chair, a core faculty member of Mila - Quebec's artificial intelligence institute, and an assistant professor at the School of Computer Science at McGill University. Before that she was a postdoctoral fellow at the School of Computer Science, Carnegie Mellon, and completed her Ph.D. in the Computing Science Department at the University of Alberta. Rabbany's research is at the intersection of network science, data mining and machine learning, with a focus on developing techniques for analyzing large-scale complex data that is interconnected, evolving, multi-modal, and noisy. She is particularly interested in data from online societies and applications to enhance the health and safety of online spaces.
-
 <p id="Danai Koutra"></p>
 
-##### **Wednesday Speaker 3, 11:30 - 12:30**
+##### **Wednesday Speaker 2, 11:30 - 12:30**
 [**Danai Koutra**](https://web.eecs.umich.edu/~dkoutra/), University of Michigan, Ann Arbor
 
 **Title:** Not all Neighbors Agree: Graph Learning Beyond Homophily
@@ -319,6 +317,19 @@ Our main excursion will be at the Montreal botanical gardens. Stay tuned for mor
 In this talk, I will present our recent advances in understanding and improving GNNs in the presence of heterophily. I will introduce effective GNN designs for node classification and link prediction, and discuss how heterophily relates to core  challenges such as oversmoothing and robustness. Moving beyond global homophily, I will show how local homophily variations can lead to performance disparities across node groups, ultimately resulting in unfair predictions. Finally, I will present the limitations of standard positional encodings in heterophilic graphs and introduce a variant that improves performance across a range of GNN architectures, including graph transformers.
 
 **Bio:** Danai Koutra is an Associate Professor of Computer Science and Engineering at the University of Michigan and an Amazon Scholar. Her research interests include graph mining and learning, graph–LLM joint models, and graph summarization. Her work has been applied to social, collaboration, and web networks, as well as brain connectivity graphs. Danai has won the Presidential Early Career Award for Scientists and Engineers (PECASE), the 2024 IBM Early Career Data Mining Research Award, the 2023 Tao Li Award, an NSF CAREER Award, an ARO Young Investigator Award, the 2020 SIGKDD Rising Star Award, multiple industry-sponsored research faculty awards, a Precision Health Investigator Award, and the 2016 ACM SIGKDD Dissertation Award. She has also received nine paper awards and the 2022 IEEE ICDM Test-of-Time Award. In terms of service, she is currently Program Chair for the IJCAI 2025 Survey Track and has previously served as Program Chair for ACM SIGKDD, ECML/PKDD, and The Web Conference (track chair).
+
+<p id="Antonio G. Marques"></p>
+
+##### **Wednesday Speaker 3, 15:15 - 16:15**
+[**Antonio G. Marques**](https://www.tsc.urjc.es/~amarques/), King Juan Carlos University
+
+**Title:** TBD
+
+**Abstract:** TBD
+
+**Bio:** Antonio G. Marques is a Professor at the Department of Signal Theory and Communications, King Juan Carlos University, Madrid, Spain. At the core of his research lies the application of (stochastic) signal processing, machine learning, and non-linear optimization (especially duality theory and dynamic programming). 
+
+He received his degree in Telecommunications Eng. and his doctorate degree (together equivalent to the B.Sc., M.Sc., and Ph.D. degrees in Electrical Eng.) with highest honors from the Carlos III University of Madrid, Madrid, Spain, in 2002 and 2007 respectively. Two years of his Ph.D. program were carried out at the University of Minnesota, USA. From 2007 to 2015 he visited (under different roles) the Department of Electrical Eng. at the University of Minnesota, USA. In 2015, 2016 and 2017 he was a Visiting Scholar at the Department of Electrical and Systems Eng. at the University of Pennsylvania, USA.
 
 <p id="Melanie Weber"></p>
 
