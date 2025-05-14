@@ -121,7 +121,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-0pky">Dinner</td>
     <td class="tg-0pky">18:30-20:30</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Ristorante Pizzeria Corneli, 6741 Boulevard St-Laurent</td>
   </tr>
 </tbody></table>
 </details>
