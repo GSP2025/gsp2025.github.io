@@ -764,6 +764,11 @@ He received his degree in Telecommunications Eng. and his doctorate degree (toge
     <td class="tg-j58y">Oluwadamilola Fasina (Yale University), Smita Krishnaswamy (Yale University), Ronald R. Coifman (Yale University)</td>
     <td class="tg-buh4">We demonstrate tensor organizations and paraproduct decompositions with graphs have a variety of applications for graph signal processing tasks. Such techniques are intertwined and have a diverse range of use-cases such as graph construction, alleviating common learning bottlenecks, and extracting salient tensor structure. Specifically, we utilize these techniques for (i) graph building for the kernel of an integral operator and the gaussian heat kernel, (ii) formulating the paraproduct decomposition on a tree (iii) investigating network sparsity (iv) demonstrating invariance of the attention mechanism to softmax activation.</td>
   </tr>
+  <tr>
+    <td class="tg-7zrl">On Multi-Scale Graph Representation Learning</td>
+    <td class="tg-7zrl">Christian Koke (Technical University Munich), Daniel Cremers (Technical University Munich)</td>
+    <td class="tg-0lax">While Graph Neural Networks (GNNs) are widely used in modern computational biology, an underexplored drawback of common GNN methods,is that they are not inherently multiscale consistent: Two graphs describing the same object or situation at different resolution scales are assigned vastly different latent representations. This prevents graph networks from generating data representations that are consistent across scales. It also complicates the integration of representations at the molecular scale with those generated at the biological scale. Here we discuss why existing GNNs struggle with multiscale consistency and show how to overcome this problem through carefully  restricting learnable graph filters and selecting the appropriate graph shift operator.</td>
+  </tr>
 </tbody>
 </table>
 
