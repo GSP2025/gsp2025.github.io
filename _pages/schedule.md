@@ -174,7 +174,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 2</td>
     <td class="tg-61xu">13:00-14:00</td>
-    <td class="tg-61xu"><strong>TBD</strong>: TBD</td>
+    <td class="tg-61xu"><strong>Dhananjay Bhaskar</strong>: Beyond Message Passing: Learning Representations from Dynamics on Graphs</td>
   </tr>
   <tr>
     <td class="tg-90e1">Poster Session 2</td>
@@ -212,7 +212,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 1</td>
     <td class="tg-61xu">9:00 - 10:00</td>
-    <td class="tg-61xu"><strong>Dhananjay Bhaskar</strong>: Beyond Message Passing: Learning Representations from Dynamics on Graphs</td>
+    <td class="tg-61xu"><strong>TBD</strong>: TBD</td>
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
@@ -325,6 +325,8 @@ In this talk, I will present our recent advances in understanding and improving 
 
 **Title:** Beyond Graphical Lasso: Learning graphs from nodal signals
 
+**Abstract:** Learning a graph from nodal features is a central problem in network science and statistics, with a history spanning more than 50 years. In recent years, numerous graph-learning algorithms have emerged from the field of graph signal processing (GSP). This talk has three main objectives: (i) to explain different GSP-based graph-learning methods and compare them with classical statistical approaches, (ii) to review recent GSP-based graph-learning results, and (iii) to briefly discuss current trends, challenges, and future directions.
+
 **Bio:** Antonio G. Marques is a Professor at the Department of Signal Theory and Communications, King Juan Carlos University, Madrid, Spain. At the core of his research lies the application of (stochastic) signal processing, machine learning, and non-linear optimization (especially duality theory and dynamic programming). 
 
 He received his degree in Telecommunications Eng. and his doctorate degree (together equivalent to the B.Sc., M.Sc., and Ph.D. degrees in Electrical Eng.) with highest honors from the Carlos III University of Madrid, Madrid, Spain, in 2002 and 2007 respectively. Two years of his Ph.D. program were carried out at the University of Minnesota, USA. From 2007 to 2015 he visited (under different roles) the Department of Electrical Eng. at the University of Minnesota, USA. In 2015, 2016 and 2017 he was a Visiting Scholar at the Department of Electrical and Systems Eng. at the University of Pennsylvania, USA.
@@ -340,15 +342,9 @@ He received his degree in Telecommunications Eng. and his doctorate degree (toge
 
 **Bio:** Melanie Weber is an Assistant Professor of Applied Mathematics and of Computer Science at Harvard University, where she leads the Geometric Machine Learning Group. Her research studies geometric structure in data and how to leverage such information for the design of new, efficient Machine Learning algorithms with provable guarantees. In 2021-2022, she was a Hooke Research Fellow at the Mathematical Institute in Oxford. Previously, she received her PhD from Princeton University (2021). She is a recipient of the IMA Leslie Fox Prize in Numerical Analysis and a Sloan Research Fellowship in Mathematics.
 
-<p id="Bastian Rieck"></p>
-
-##### **Thursday Speaker 2, 13:00 - 14:00**
-
-**TBD**
-
 <p id="Dhananjay Bhaskar"></p>
 
-##### **Friday Speaker 1, 9:00 - 10:00**
+##### **Thursday Speaker 2, 13:00 - 14:00**
 [**Dhananjay Bhaskar**](https://dbhaskar92.github.io), Yale University
 
 **Title:** Beyond Message Passing: Learning Representations from Dynamics on Graphs
@@ -356,6 +352,12 @@ He received his degree in Telecommunications Eng. and his doctorate degree (toge
 **Abstract:** This talk introduces two complementary frameworks that harness geometric and topological structure in dynamics on graphs for representation learning. I will first introduce Neurospectrum, a modular architecture that models brain activity as graph signals and learns latent neural trajectories shaped by multiscale spatial and temporal structure. By extracting geometric and topological invariants of these naturally occurring dynamics, such as curvature, path signatures, persistent homology, and recurrent dynamics, Neurospectrum reveals interpretable patterns in brain function, offering insights into neural synchrony, coordination, sensory processing, and aberrant dynamics associated with psychiatric disorders like OCD. Building on the idea of using dynamical behavior to reveal structure, I will next introduce DYMAG, a novel graph neural network that replaces traditional message passing with solutions to heat, wave, and chaotic partial differential equations defined over graphs. By treating graphs as continuous dynamical systems, DYMAG captures intrinsic geometric and topological features of the graph, enabling richer node and graph-level representations that improve performance on various benchmarks.
 
 **Bio:** Dhananjay Bhaskar is a postdoctoral researcher at Yale University and visiting scholar at Brown Engineering, where he develops machine learning methods grounded in principles of geometry, topology, and biology to study complex systems, from molecular interactions to brain activity. He received his Ph.D. in Biomedical Engineering and M.S. in Data Science from Brown University, and his B.Sc. in Computer Science and Mathematics from the University of British Columbia. He is a recipient of the Boehringer Ingelheim Data Science Fellowship, Kavli Neuroscience Postdoctoral Fellowship, and DAAD Fellowship for Generative Models, and has been recognized by the Yale Postdoctoral Association for initiatives to advance professional development and interdisciplinary dialogue.
+
+<p id="Bastian Rieck"></p>
+
+##### **Friday Speaker 1, 9:00 - 10:00**
+
+**TBD**
 
 <p id="Naoki Saito"></p>
 
