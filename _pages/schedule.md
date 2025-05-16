@@ -212,7 +212,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 1</td>
     <td class="tg-61xu">9:00 - 10:00</td>
-    <td class="tg-61xu"><strong>TBD</strong>: TBD</td>
+    <td class="tg-61xu"><strong>Hamed Shirzad</strong>: Scaling Graph Transformers with Sparse and Sparsified Attention</td>
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
@@ -353,11 +353,16 @@ He received his degree in Telecommunications Eng. and his doctorate degree (toge
 
 **Bio:** Dhananjay Bhaskar is a postdoctoral researcher at Yale University and visiting scholar at Brown Engineering, where he develops machine learning methods grounded in principles of geometry, topology, and biology to study complex systems, from molecular interactions to brain activity. He received his Ph.D. in Biomedical Engineering and M.S. in Data Science from Brown University, and his B.Sc. in Computer Science and Mathematics from the University of British Columbia. He is a recipient of the Boehringer Ingelheim Data Science Fellowship, Kavli Neuroscience Postdoctoral Fellowship, and DAAD Fellowship for Generative Models, and has been recognized by the Yale Postdoctoral Association for initiatives to advance professional development and interdisciplinary dialogue.
 
-<p id="Bastian Rieck"></p>
+<p id="Hamed Shirzad"></p>
 
 ##### **Friday Speaker 1, 9:00 - 10:00**
+[**Hamed Shirzad**](https://www.hamedshirzad.com/), University of British Columbia
 
-**TBD**
+**Title:** Scaling Graph Transformers with Sparse and Sparsified Attention
+
+**Bio:** is a PhD student working with Danica J. Sutherland in the Department of Computer Science at the University of British Columbia. He holds an MSc in Computer Science from Simon Fraser University and a double-major BSc in Software Engineering and Mathematics from Sharif University of Technology (Iran). His research focuses on graph representation learning, graph transformers, and the application of graphs in diverse domains such as biological knowledge graphs and traffic forecasting. During his PhD, he has received a scholarship from the UBC Advanced Machine Learning Training Network. He has presented his work at top conferences including NeurIPS, ICML, and AISTATS, and has organized academic workshops through his involvement in student clubs. He has also served as a teaching assistant for several advanced machine learning courses and has held tutorial sessions and review classes as part of his role. His recent research explores theoretical aspects of learning on graphs and the expressive power of graph transformers.
+
+
 
 <p id="Naoki Saito"></p>
 
