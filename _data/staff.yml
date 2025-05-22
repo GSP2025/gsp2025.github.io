@@ -5,7 +5,7 @@ Speakers:
     url: https://www.math.ucdavis.edu/~saito/
     image: speakers/naoki.jpg
     id: NS
-    topic: Generalized Haar-Walsh Dictionaries: Extensions and Applications
+    topic: "Generalized Haar-Walsh Dictionaries: Extensions and Applications"
     abstract:
     bio:
 
@@ -15,7 +15,7 @@ Speakers:
     url: https://www.mathildep.ca
     image: speakers/mathilde.jpg
     id: MP
-    topic: Make Any Graph Neural Network Go Topological with TopoTune
+    topic: "Make Any Graph Neural Network Go Topological with TopoTune"
     abstract:
     bio:
 
@@ -25,7 +25,7 @@ Speakers:
     url: https://mila.quebec/en/directory/dominique-beaini
     image: speakers/dominique.jpg
     id: DB2
-    topic: How to Learn Molecules
+    topic: "How to Learn Molecules"
     abstract:
     bio:
 
@@ -35,7 +35,7 @@ Speakers:
     url: https://web.eecs.umich.edu/~dkoutra/
     image: speakers/danai.jpeg
     id: DK
-    topic: Not all Neighbors Agree: Graph Learning Beyond Homophily
+    topic: "Not all Neighbors Agree: Graph Learning Beyond Homophily"
     abstract:
     bio:
 
@@ -45,7 +45,7 @@ Speakers:
     url: https://tsc.urjc.es/~amarques/
     image: speakers/antonio.jpg
     id: AM
-    topic: Beyond Graphical Lasso: Learning Graphs from Nodal Signals
+    topic: "Beyond Graphical Lasso: Learning Graphs from Nodal Signals"
     abstract:
     bio:
 
@@ -55,7 +55,7 @@ Speakers:
     url: https://melanie-weber.com
     image: speakers/melanie.jpg
     id: MW
-    topic: A Geometric Lens on Challenges in Graph Machine Learning: Insights and Remedies
+    topic: "A Geometric Lens on Challenges in Graph Machine Learning: Insights and Remedies"
     abstract:
     bio:
   
@@ -65,7 +65,7 @@ Speakers:
     url: https://dbhaskar92.github.io
     image: speakers/dhananjay.jpg
     id: DB
-    topic: Beyond Message Passing: Learning Representations from Dynamics on Graphs
+    topic: "Beyond Message Passing: Learning Representations from Dynamics on Graphs"
     abstract:
     bio:
 
@@ -75,6 +75,6 @@ Speakers:
     url: https://www.hamedshirzad.com
     image: speakers/hamed.jpeg
     id: HS
-    topic: Scaling Graph Transformers with Sparse and Sparsified Attention
+    topic: "Scaling Graph Transformers with Sparse and Sparsified Attention"
     abstract:
     bio:
