@@ -69,11 +69,11 @@ GSP 2025 is kindly supported by Mila -- Quebec AI Institute, Centre de recherche
 
 #### Student Organizers
 
++ [Semih Cantürk](https://semihcanturk.github.io) (Université de Montréal/Mila),  Website & Registration
 + [Rahul Singh](https://rahulsinghchandraul.github.io) (Yale), Special sessions
 + [Shreyas V](https://shreyasv.me/folio/) (Yale/BITS Pilani), Special sessions
 + [Rishabh Anand](https://rish-16.github.io) (Yale), Publicity
 + [Danqi Liao](https://danqi7.github.io) (Yale), Publicity
-+ [Semih Cantürk](https://semihcanturk.github.io) (Université de Montréal/Mila),  Website & Registration
 
 ---
 #### Patrons

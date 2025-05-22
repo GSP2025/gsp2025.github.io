@@ -111,7 +111,7 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-61xu">Speaker 3</td>
     <td class="tg-61xu">15:15-16:15</td>
-    <td class="tg-61xu"><strong>Antonio G. Marques</strong>: Beyond Graphical Lasso: Learning graphs from nodal signals</td>
+    <td class="tg-61xu"><strong>Antonio G. Marques</strong>: Beyond Graphical Lasso: Learning Graphs from Nodal Signals</td>
   </tr>
   <tr>
     <td class="tg-90e1">Poster Session 1</td>
@@ -262,21 +262,16 @@ top_image_alt: "Montréal, Canada"
   <tr>
     <td class="tg-pidv">TMLR 3</td>
     <td class="tg-pidv">14:40-15:00</td>
-    <td class="tg-pidv"><strong>Hu et al.</strong>: Sparse Decomposition of Graph Neural Networks</td>
-  </tr>
-  <tr>
-    <td class="tg-pidv">TMLR 4</td>
-    <td class="tg-pidv">15:00-15:20</td>
     <td class="tg-pidv"><strong>Rumiantsev & Coates</strong>: Graph Knowledge Distillation to Mixture of Experts</td>
   </tr>
   <tr>
     <td class="tg-0pky">Break</td>
-    <td class="tg-0pky">15:20-15:30</td>
+    <td class="tg-0pky">15:00-15:10</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-61xu">Speaker 3</td>
-    <td class="tg-61xu">15:30-16:30</td>
+    <td class="tg-61xu">15:10-16:10</td>
     <td class="tg-61xu"><strong>Dominique Beaini</strong>: How to Learn Molecules</td>
   </tr>
 </tbody></table>
@@ -377,7 +372,7 @@ He received his degree in Telecommunications Eng. and his doctorate degree (toge
 
 <p id="Dominique Beaini"></p>
 
-##### **Friday Speaker 3, 15:30 - 16:30**
+##### **Friday Speaker 3, 15:10 - 16:10**
 [**Dominique Beaini**](https://mila.quebec/en/directory/dominique-beaini), Valence Labs, Université de Montréal, Mila -- Quebec AI Institute
 
 **Title:** How to Learn Molecules
@@ -803,11 +798,6 @@ He received his degree in Telecommunications Eng. and his doctorate degree (toge
   <tr>
     <td class="tg-7zrl"><a href="https://openreview.net/forum?id=mSoDRZXsqj">Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings</a></td>
     <td class="tg-7zrl">Billy Joe Franks (University of Kaiserslautern-Landau), Moshe Eliasof (University of Cambridge), Semih Cantürk (Université de Montréal & Mila), Guy Wolf (Université de Montréal & Mila), Carola-Bibiane Schönlieb (University of Cambridge), Sophie Fellenz (University of Kaiserslautern-Landau), Marius Kloft (University of Kaiserslautern-Landau)</td>
-  </tr>
-    <tr>
-    <td class="tg-j58y"><a href="https://openreview.net/forum?id=xdWP1d8BxI">Sparse Decomposition of Graph Neural Networks</a></td>
-    <td class="tg-j58y">Yaochen Hu (Huawei), Mai Zeng (McGill University & Mila), Ge Zhang (Huawei), Pavel Rumiantsev (McGill University & Mila), Liheng Ma (McGill University & Mila), Yingxue Zhang (Huawei), Mark Coates (McGill University & Mila)</td>
-  </tr>
   <tr>
     <td class="tg-7zrl"><a href="https://openreview.net/forum?id=vzZ3pbNRvh">Graph Knowledge Distillation to Mixture of Experts</a></td>
     <td class="tg-7zrl">Pavel Rumiantsev (McGill University & Mila), Mark Coates (McGill University & Mila)</td>
